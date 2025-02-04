@@ -1,0 +1,205 @@
+@9001 = ~[Uu]tilisable\([ %tab%]+[Ss]eulement\|[ %tab%]+[Uu]niquement\)?[ %tab%]+[Pp]ar[ %tab%]*:~
+@9002 = ~\([Nn]on[ %tab%]+\|[Ii]n\)[Uu]tilisable[ %tab%]+[Pp]ar[ %tab%]*:~
+@1= ~Larsha~
+@2= ~Lorsqu'on l'interroge sur son passé, LARSHA raconte qu'elle a dû quitter sa maison du Bosquet du Saule Pleureur, dans les Bois de Padhiver, pour trouver son arbre et accomplir son rite d'adhésion. Après un long voyage, elle est arrivée dans la ville de West Harbor, assiégée par une horde d'orques venus des Montagnes de l'Épée. Elle raconte, avec beaucoup de fierté, comment elle a aidé à repousser les orques. Elle parle aussi avec beaucoup de tristesse de la mort de nombreux elfes et évoque longuement la menace croissante que les drows font peser sur les elfes de la surface. Revenant sur ses voyages, elle raconte comment elle est arrivée aux collines de Lancevent, où elle a été agressée par une meute de loups-garous en quête de sport. Blessée, elle a eu la chance de recevoir l'aide de Vaelasa, la reine des dryades. Elle a été soignée jusqu'à la guérison et s'apprêtait à partir à la recherche de son arbre lorsque vous êtes arrivés.~
+@3= ~Épine du bois +1~
+@4= ~Épine du bois +2~
+@5= ~Épine du bois +3~
+@6= ~Épine du bois +4~
+@7= ~Épine du bois +5~
+@8= ~Épine du bois +6~
+@9= ~Épine du bois +1
+Ce puissant arc appartient à Larsha la dryade, qui l'a reçu de sa reine dans le Bosquet du Dragon pour l'aider dans sa lutte contre les créatures qui menacent le bien et l'équilibre. Il est aussi étroitement lié à la nature de la dryade et à son extraordinaire don de persuasion, que toutes les nymphes ne possèdent pas. Cette arme puissante, créée à partir de l'eau et du vent, ne nécessite aucune flèche matérielle, et chaque coup peut entraîner la pétrification de la victime.
+
+Capacité d'équipement :
+- Résistance aux dégâts magiques : +30%
+
+Capacités de combat : 
+- Chaque coup à 10% de chance de pétrifier la cible (jet de sauvegarde contre la pétrification à +5 pour annuler)
+- Chaque coup à 40% de chance d'enchevêtrer la cible (15 secondes, jet de sauvegarde contre les sorts à +8 pour annuler)
+
+TAC0 : +1
+Dégâts : 1D4+1 perforants
+Poids : 2
+Facteur de vitesse : 2
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Charisme nécessaire : 25
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@10= ~Épine du bois +2
+Ce puissant arc appartient à Larsha la dryade, qui l'a reçu de sa reine dans le Bosquet du Dragon pour l'aider dans sa lutte contre les créatures qui menacent le bien et l'équilibre. Il est aussi étroitement lié à la nature de la dryade et à son extraordinaire don de persuasion, que toutes les nymphes ne possèdent pas. Cette arme puissante, créée à partir de l'eau et du vent, ne nécessite aucune flèche matérielle, et chaque coup peut entraîner la pétrification de la victime.
+
+Capacité d'équipement :
+- Résistance aux dégâts magiques : +35%
+
+Capacités de combat :
+- Chaque coup à 10% de chance de pétrifier la cible (jet de sauvegarde contre la pétrification à +2 pour annuler)
+- Chaque coup à 40% de chance d'enchevêtrer la cible (20 secondes, jet de sauvegarde contre les sorts à +6 pour annuler)
+
+TAC0 : +2
+Dégâts : 2D4+2 perforants, +2 de feu
+Poids : 2
+Facteur de vitesse : 2
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Charisme nécessaire : 25
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@11= ~Épine du bois +3
+Ce puissant arc appartient à Larsha la dryade, qui l'a reçu de sa reine dans le Bosquet du Dragon pour l'aider dans sa lutte contre les créatures qui menacent le bien et l'équilibre. Il est aussi étroitement lié à la nature de la dryade et à son extraordinaire don de persuasion, que toutes les nymphes ne possèdent pas. Cette arme puissante, créée à partir de l'eau et du vent, ne nécessite aucune flèche matérielle, et chaque coup peut entraîner la pétrification de la victime.
+
+Capacité d'équipement :
+- Résistance aux dégâts magiques : +55%
+- Jets de sauvegarde : +2
+
+Capacités de combat :
+- Chaque coup à 15% de chance de pétrifier la cible (jet de sauvegarde contre la pétrification à +1 pour annuler)
+- Chaque coup à 40% de chance d'enchevêtrer la cible (25 secondes, jet de sauvegarde contre les sorts à +4 pour annuler)
+
+TAC0 : +3
+Dégâts : 2D6+3 perforants, +3 de feu
+Poids : 2
+Facteur de vitesse : 1
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Charisme nécessaire : 25
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@12= ~Épine du bois +4
+Ce puissant arc appartient à Larsha la dryade, qui l'a reçu de sa reine dans le Bosquet du Dragon pour l'aider dans sa lutte contre les créatures qui menacent le bien et l'équilibre. Il est aussi étroitement lié à la nature de la dryade et à son extraordinaire don de persuasion, que toutes les nymphes ne possèdent pas. Cette arme puissante, créée à partir de l'eau et du vent, ne nécessite aucune flèche matérielle, et chaque coup peut entraîner la pétrification de la victime.
+
+Capacité d'équipement :
+- Résistance aux dégâts magiques : +55%
+- Jets de sauvegarde : +2
+
+Capacités de combat :
+- Chaque coup à 15% de chance de pétrifier la cible (jet de sauvegarde contre la pétrification pour annuler)
+- Chaque coup à 40% de chance d'enchevêtrer la cible (25 secondes, jet de sauvegarde contre les sorts à +1 pour annuler)
+- Chaque coup dissipe la magie sur la cible (100% de chance)
+
+TAC0 : +4
+Dégâts : 3D6+4 perforants, +3 de feu
+Poids : 2
+Facteur de vitesse : 1
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Charisme nécessaire : 25
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@13= ~Épine du bois +5
+Ce puissant arc appartient à Larsha la dryade, qui l'a reçu de sa reine dans le Bosquet du Dragon pour l'aider dans sa lutte contre les créatures qui menacent le bien et l'équilibre. Il est aussi étroitement lié à la nature de la dryade et à son extraordinaire don de persuasion, que toutes les nymphes ne possèdent pas. Cette arme puissante, créée à partir de l'eau et du vent, ne nécessite aucune flèche matérielle, et chaque coup peut entraîner la pétrification de la victime.
+
+Capacité d'équipement :
+- Résistance aux dégâts magiques : +55%
+- Jets de sauvegarde : +2
+
+Capacités de combat :
+- Chaque coup à 20% de chance de pétrifier la cible (jet de sauvegarde contre la pétrification à -1 pour annuler)
+- Chaque coup à 45% de chance d'enchevêtrer la cible (25 secondes, jet de sauvegarde contre les sorts pour annuler)
+- Chaque coup dissipe la magie sur la cible (100% de chance)
+- Chaque coup tue la cible si c'est un tanar'ri (pas de jet de sauvegarde, pas de résistance à la magie)
+
+TAC0 : +5
+Dégâts : 3D6+5 perforants, +4 de feu
+Poids : 2
+Facteur de vitesse : 0
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Charisme nécessaire : 25
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@14= ~Épine du bois +6
+Ce puissant arc appartient à Larsha la dryade, qui l'a reçu de sa reine dans le Bosquet du Dragon pour l'aider dans sa lutte contre les créatures qui menacent le bien et l'équilibre. Il est aussi étroitement lié à la nature de la dryade et à son extraordinaire don de persuasion, que toutes les nymphes ne possèdent pas. Cette arme puissante, créée à partir de l'eau et du vent, ne nécessite aucune flèche matérielle, et chaque coup peut entraîner la pétrification de la victime.
+
+Capacité d'équipement :
+- Résistance aux dégâts magiques : +60%
+- Jets de sauvegarde : +2
+
+Capacités de combat :
+- Chaque coup à 25% de chance de pétrifier la cible (jet de sauvegarde contre la pétrification pour annuler)
+- Chaque coup réduit de 2 la classe d'armure et le jet de sauvegarde contre la pétrification de la cible pendant 20 secondes.
+- Chaque coup à 45% de chance d'enchevêtrer la cible (30 secondes, jet de sauvegarde contre les sorts pour annuler)
+- Chaque coup dissipe la magie sur la cible (100% de chance)
+- Chaque coup tue la cible si c'est un tanar'ri (pas de jet de sauvegarde, pas de résistance à la magie)
+
+TAC0 : +6
+Dégâts : 4D6+6 perforants, +4 de feu
+Poids : 2
+Facteur de vitesse : 0
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Charisme nécessaire : 25
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@15= ~Le cadeau des elfes +3~
+@16= ~Le cadeau des elfes +5~
+@17= ~Émeraude de la forêt : Le cadeau des elfes +3
+Cet anneau d'or, qui rappelle un diadème, est orné en son centre d'une émeraude dont on peut percevoir l'aura des anciennes forêts elfiques. Cet objet insolite a été offert par les elfes à Larsha pour la remercier de l'avoir aidée à chasser les démons des forêts septentrionales. Depuis, ces créatures déchues sont devenues les ennemis raciaux de Larsha, qui n'a rien à leur envier.
+
+Capacités d'équipement :
+- Classe d'armure : +1
+- Hâte améliorée
+- Action libre
+- Protection contre les armes non-magiques et magiques +1
+
+Uniquement utilisable par :
+ Neutre bon
+ Rôdeur
+ Personnage ayant 25 en charisme.~ 
+@18= ~Émeraude de la forêt : Le cadeau des elfes +5
+Cet anneau d'or, qui rappelle un diadème, est orné en son centre d'une émeraude dont on peut percevoir l'aura des anciennes forêts elfiques. Cet objet insolite a été offert par les elfes à Larsha pour la remercier de l'avoir aidée à chasser les démons des forêts septentrionales. Depuis, ces créatures déchues sont devenues les ennemis raciaux de Larsha, qui n'a rien à leur envier.
+
+Capacités d'équipement :
+- Classe d'armure : +2
+- Hâte améliorée
+- Action libre
+- Protection contre les armes non-magiques et magiques jusqu'à +2
+- Rajoute +1D8 points de dégât quand le porteur attaque un dragon
+- Protection contre le mal
+
+Uniquement utilisable par :
+ Neutre bon
+ Rôdeur
+ Personnage ayant 25 en charisme.~
+@19= ~Chanson de l'Hama-dryade~
+@20= ~Rituel de l'arbre de vie~
+@21= ~Minerai polymorphique~
+@22= ~Ce minerai étrange a l'air de changer de forme, de temps en temps, sous vos yeux. Il peut sans doute être utilisé pour rendre une arme plus puissante, car il a la particularité d'affaiblir les défenses de la victime.~
+@23= ~Beauté de la nature~
+@24= ~Mèche de cheveux de Larsha~
+@25= ~<CHARNAME> en signe d'amour éternel. Au toucher, elle est comme de la soie pure, plus douce et plus légère que n'importe quelle plume, et dégage un doux arôme de jasmin frais.
+
+Cet adorable symbole augmente votre charisme de 4 points, et une fois par jour, vous pouvez utiliser son pouvoir pour charmer une cible.~
+@26 = ~Objet divin.~
+@27 = ~J'en appelle à toi, Seldarine!~
+@28 = ~Aide-moi, Corellon!~
+29 = ~Tu mourras, Irenicus!~
+@30 = ~Accepte ce cadeau. Suis la règle de droit. Abandonne le mal et l'indifférence !~
+@31 = ~Rejette le chemin des mauvais. Ne servez que la justice. Que vos actions soient votre témoignage !~
+@32 = ~En récompense de votre noblesse, acceptez ce don de bonté. Qu'il vous donne la force et la sagesse de la diriger!~
+

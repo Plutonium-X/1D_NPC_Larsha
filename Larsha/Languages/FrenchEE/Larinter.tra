@@ -1,0 +1,27 @@
+@1  = ~Larsha, ma chère ! C'est un plaisir de vous voir. Ce sont vos amis ? Je suis heureuse de les voir !~ 
+@2  = ~Vaelasa, voici <CHARNAME>, j'essaie de l'aider à trouver un mage... Irenicus, peux-tu... peux-tu regarder dans ton miroir d'eau pour nous ? Nous devons le trouver.~ 
+@3  = ~Je connais cette créature ! Elle est puissante et corrompue... et dangereuse. Je suis désolée mais non, je ne risquerai pas de mettre tout ce qui est ici en danger. Je suis vraiment désolée.~ 
+@4  = ~Je comprend. Nous devrions continuer, <CHARNAME>. Nous devons retrouver les glands de mes sœurs pour que la reine puisse les libérer de l'esclavage d'Irenicus. Si vous pouvez nous aider... parlez-lui, s'il vous plaît.~
+
+
+@5  = ~Vile créature ! Tu ne trompes personne ! Je vois clair dans tes méchants tours ! <CHARNAME>, DÉTRUISEZ-LA !~ 
+@6  = ~De quoi parlez-vous ? Pour qui vous prenez-vous ? Vous n'avez aucune preuve de ce que vous avancez ! <CHARNAME>, croyez-moi, cette créature est une sauvageonne ! Je ne suis pas votre ennemi !~
+@7  = ~Tu essaie de semer le doute dans l'esprit de mon compagnon, mais tu échoueras ! Je suis une dryade. Il est dans ma nature de voir la vérité ! Ah, je vois à ton visage effrayé que mes paroles font mouche !~~Tu essaie de semer le doute dans l'esprit de ma compagne, mais tu échoueras ! Je suis une dryade. Il est dans ma nature de voir la vérité ! Ah, je vois à ton visage effrayé que mes paroles font mouche !~
+@8  = ~Sais-tu ce que les dryades peuvent faire ? Tu ne peux pas me déjouer ! Je peux atteindre ton esprit et forcer la vérité à en sortir !~ 
+
+
+@9  = ~Hmm... Je ne souhaite pas sonder l'esprit de cette créature. Mais je ne pense pas que nous obtiendrons quoi que ce soit par les moyens conventionnels. Alors allons-y...~
+@10 = ~(En voyant Larsha plonger son regard dans les yeux sombres du démon, vous ressentez un étrange sentiment d'incertitude)~
+@11 = ~D'après ce que je peux voir, la tombe dont Samia a parlé est protégée par un élémentaire de feu, le dernier septième gardien du roi Strohm III. Il est invisible pour tous ceux qui ne sont pas des descendants du roi ou qui ne portent pas le masque du roi. Le masque lui-même est divisé en six morceaux chacun gardée par un efrit. ~
+@12 = ~Nous devons tuer les six efrits, reconstruire le masque à partir des morceaux qu'ils portent, puis l'utiliser pour voir le septième gardien invisible.~
+@13 = ~Cette tombe contient de nombreux trésors... nous devons être prudents... là où il y a des trésors, il y a des pièges...~ 
+@14 = ~Vous êtes probablement surpris que le démon ne nous ait pas attaqués pendant toute la durée de notre conversation. Je suis également surprise, je pense que l'esprit de la créature a été stupéfait par ma petite pénétration. Par contre il est en train de reprendre conscience; il est temps de se battre !~
+
+@15 = ~Je... JE LE SENS ! L'arbre de vie a besoin d'aide ! Il a... il m'a choisi comme... comme protectrice ! Je... nous devons l'aider, <CHARNAME> !~ 
+@16 = ~Il... il craint que l'Exilé ne... les elfes, nous devons les protéger d'Irenicus !~
+@17 = ~Tais-toi, créature ! Par Rilifane, je ne te laisserai plus nuire à l'Arbre de vie ! Je suis devenue sa gardienne, sa dryade, et je le défendrai à tout prix !~
+@18 = ~Ahahaha ! Je l'ai senti ! Un cri désespéré du bois mourant... vers toi, créature féerique ! Où sont donc vos précieux dieux ? Où est la Seldarine ? ! Qui va m'arrêter maintenant ? Qui peut m'arrêter maintenant ?!~
+@19 = ~Je vous détruirai ! Tous ! Car je suis plus puissant que la Seldarine !~ 
+@20 = ~TAIS-TOI ! N'ESSAIE PAS DE ME PARLER... pathétique créature... démon... Je ne sais pas ce que tu es, mais tu n'es certainement pas un elfe !~
+@21 = ~<CHARNAME>, ce n'est pas seulement votre combat, et vous n'êtes pas la seule chose qui est en jeu... l'Arbre... Je me bats pour vous et pour l'Arbre ! Je ne laisserai pas ce monstre vivre ! Que la Seldarine soit mon témoin !~ 
+@22 = ~JE SUIS LA DRYADE DE L'ARBRE DE VIE ! ENFANT DES DIEUX, PROTECTRICE DE LA SOURCE DE TOUTE VIE ! JE T'INVOQUE MAINTENANT, CORELLON ! JE T'APPELLE, SELDARINE ! DONNE-MOI TON AIDE POUR QUE JE PUISSE EXPULSER CETTE VILE CRÉATURE DE CE LIEU SACRÉ ! IRENICUS ! TA FIN EST PROCHE !~ 

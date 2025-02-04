@@ -1,0 +1,232 @@
+@1   = ~Bonjour à tous ! Je suis heureuse de voir autre chose que des gobelins et des orques.~ 
+@2   = ~Bonjour ! Qui êtes-vous et que faites-vous ici ?~
+@3   = ~Et je suis heureuse qu'il y ait d'autres rôdeurs dans ce pays. Bienvenue.~ 
+@4   = ~Vous êtes une dryade. Sans vouloir vous offenser, sortez de ma vue !~
+@5   = ~Je suis heureuse que nous nous soyons rencontrés et que nous ayons des compétences communes. Permettez-moi de me présenter.~ 
+@6   = ~Non, je n'ai pas le temps de vous parler.~
+@7   = ~S'il vous plaît, nous attendons avec impatience !~
+@8   = ~Je suis Larsha, rôdeuse dryade. Je viens du bosquet du saule pleureur, au nord, dans les bois de Padhiver. Je suis venue ici, au sud, pour gagner mon droit d'arbre, mon rite de passage pour ne faire qu'un avec un arbre. Je suis arrivé dans un village elfique assiégé par des orques... nous avons réussi à les chasser, et maintenant je suis ici.~ 
+@9   = ~J'ai trouvé refuge ici auprès de la reine des fées des collines de Lancevent, pendant un certain temps.~
+@10  = ~Je... J'ai senti que quelque chose m'appelait... c'est pourquoi je suis sorti pour vous saluer.~ 
+@11  = ~Je pense que nous pouvons nous aider mutuellement, je suis habile et volontaire... Je pourrais vous être d'une grande utilité.~
+@12  = ~Je... ne connais pas vos motivations... pour le moment, mais j'ai besoin de toute l'aide disponible. Bienvenue dans le groupe.~
+@13  = ~Oui, c'est très bien, mais je ne me contente pas d'intégrer à mon groupe tous ceux que je rencontre sur la route... Et pour l'instant, je n'ai pas besoin de vous.~ 
+@14  = ~Quand vous aurez besoin de moi, vous me trouverez ici, je vous attendrai.~
+
+
+@15  = ~Je savais que vous reviendriez.~ 
+@16  = ~Dites-m'en plus sur vous.~
+@17  = ~Oui, mais je n'ai toujours pas besoin de vous.~
+@18  = ~À plus tard !~
+
+
+@19  = ~Je pensais que nous avions accompli beaucoup de choses ensemble, voulez-vous vraiment que je parte ?~ 
+@20  = ~Non, c'était une erreur, restez dans le groupe.~
+@21  = ~Oui, mais attendez-moi ici.~ 
+@22  = ~Vous êtes revenu, avez-vous changé d'avis ?~~Vous êtes revenue, avez-vous changé d'avis ?~
+@23  = ~Oui, de retour dans le groupe !~
+@24  = ~Oh, c'est encore vous. Non, je n'ai pas encore besoin de vous.~ 
+
+
+@25  = ~Tout est donc terminé. L'Arbre de Vie a été libéré. La mort d'Irenicus le guérira en temps voulu. Je suis désormais unie à lui... quelle que soit sa fin.~
+@26  = ~Je me sens... complète, qu... où sommes-nous ?!~
+@27  = ~Est-ce que... ce sont les enfers, n'est-ce pas ? Seldarine ! Nous... nous avons dû être blessés. Sommes-nous morts ? Nous ne pouvons pas être morts... Je sens encore l'Arbre...~
+@28  = ~Je ne peux pas vous laisser ici. Je suis la dryade de l'Arbre de Vie, je peux vous aider !~
+@29  = ~Je peux accomplir un rituel ! Mon âme s’unirait à l'essence de l'Arbre de Vie, elle me donnerait peut-être accès à son pouvoir divin ! Peut-être, je précise... Je ne sais pas quels seront les effets de ce rituel, mais je pense qu'il peut être utile dans la bataille à venir.~
+
+
+@30  = ~Je suis très heureuse de vous voir, <CHARNAME>.~
+@31  = ~Alors, <RACE>, dites-moi, votre race a-t-elle quelque chose à voir avec les dryades dans sa culture ?~
+@32  = ~Hmm... Je n'y ai jamais vraiment réfléchi... pour être honnête, je connais peu de choses sur les dryades. À vous de me le dire... ~
+@33  = ~C'est dommage, j'aurais aimé avoir une nouvelle perspective. Je ne peux pas vous donner tous les détails, mais j'essaierai de vous en dire le plus possible.~
+@34  = ~En plus d'une relation étroite avec la magie de la nature, nous avons également un don inné... vous pourriez l'appeler télépathie, je suis sûre que vous en avez entendu parler.~
+@35  = ~N'ayez pas l'air si effrayé... avez-vous quelque chose à cacher ? Ha ! Cela peut être dangereux, mais aussi très... utile !~~N'ayez pas l'air si effrayée... avez-vous quelque chose à cacher ? Ha ! Cela peut être dangereux, mais aussi très... utile !~
+@36  = ~Quoi ? Vous pouvez lire dans les pensées des autres ?!~
+@37  = ~Je ne suis pas très compétente, je ne pense pas avoir le pouvoir de lire les pensées des êtres puissants, ou de ceux qui sont magiquement protégés de la scrutation.~
+@38  = ~En outre, je n'aime pas sonder l'esprit des autres créatures... on ne sait pas ce qui pourrait déteindre sur le mien... ughh !~
+@39  = ~Hehehehe, cette capacité peut être très utile... Ne vous inquiétez pas ! Vous n'avez rien que je veuille connaître... pour le moment ! Ha !~
+@40  = ~Parlez-moi de votre passé. Je suis avec vous depuis un certain temps et je ne sais toujours pas grand-chose de vous. Pourquoi faites-vous tout ça, quel est votre but ?~
+@41  = ~Je me bats parce que j'y suis obligé. Si je ne tue pas mes ennemis, c'est eux qui me tueront.~~Je me bats parce que j'y suis obligée. Si je ne tue pas mes ennemis, c'est eux qui me tueront.~
+@42  = ~Nous en reparlerons une autre fois.~
+@43  = ~Je ne vois pas pourquoi vous devriez vous mêler de mes affaires personnelles.~
+@44  = ~Je suis un enfant de Bhaal, je suis L'enfant de Bhaal. Je me bats pour mon droit de naissance ! Je massacrerai tout et tous ceux qui se dresseront contre moi.~
+@45  = ~Le sang du défunt Seigneur du Meurtre coule en moi... Je me suis battu... pour avoir la paix.~
+@46  = ~Si vous le dites... nous pourrons peut-être en parler une autre fois.~
+@47  = ~Je suis soulagée et heureuse que vous ne combattiez pas pour le mal... c'est une bénédiction... vraiment, car vous êtes redoutable. Je pensais que connaître votre histoire vous apporterait la sérénité, mais je pense que vous cherchez aussi le sens de votre existence... comme le reste d'entre nous. Non ?~
+@48  = ~Quand les prophéties d'Alaundo se réaliseront, vous obtiendrez certainement ce que vous cherchez. J'en suis convaincue.~
+@49  = ~Je ne m'attendais pas à une telle réponse, mais je ne peux pas dire qu'elle soit en contradiction avec votre moralité... n'est-ce pas ?~
+@50  = ~Mais je suis sûre que je peux vous aider à comprendre. Vous aider à voir à quel point il est merveilleux et important d'agir pour le bien de tous.~
+
+
+@51  = ~Oh, <CHARNAME> ! Avez-vous senti ça ?~
+@52  = ~Non, je n'ai rien senti et je m'en fiche, gardez vos réflexions pour vous et ne me dérangez pas.~
+@53  = ~Qu'est-ce qui ne va pas avec votre arc, Larsha ?~
+@54  = ~Je crois... Je pense qu'il est devenu plus puissant ! Il nous aide dans notre cause, il grandit avec nous... À mesure que nous devenons plus puissants, il le devient aussi... D'une certaine manière, c'est comme une créature vivante...~
+@55  = ~Je comprends. Pouvons-nous continuer notre route ?~
+@56  = ~Je me sens... plus lumineuse... plus épanouie ! Je vous remercie de m'avoir emmenée avec vous, <CHARNAME>.~
+
+
+@57  = ~Oh... ahhh... Je peux... Je peux... Je peux sentir... mon arbre, qui m'appelle... nous devons être proches. Je peux... Je peux sentir des vagues de... plaisir, déferler sur mon corps...~
+@58  = ~Larsha, ça va ? Vous êtes... pourquoi ne pas vous asseoir... Quand on s'est rencontrés, vous avez parlé de trouver votre arbre. Que vouliez-vous dire par là ?~
+@59  = ~Les dryades sont immortelles. Nous pouvons toujours mourir de blessures ou de maladies mais nous ne vieillissons pas...~
+@60  = ~Les dryades ont naturellement une affinité avec les arbres. Chaque dryade rejoindra un arbre, et s'unira à lui si vous voulez, lorsqu'il atteindra l'âge adulte. C'est un partenariat pour la vie. En général, l'arbre possède déjà une certaine forme de magie. Il fut un temps où nous étions très nombreuses et où nous nous unissions à n'importe quel arbre. Mais aujourd'hui, notre nombre a diminué et nous devons choisir avec soin les arbres avec lesquels nous partageons notre existence.~
+@61  = ~Ces arbres sont uniques, généralement très vieux, et lorsque nous nous unissons, il y a un... un transfert... comme une... comme une symbiose. Il y a un partage du pouvoir... le type de partage dépend des origines du pouvoir de l'arbre.~
+@62  = ~Par exemple, par l'eau d'une source sacrée, ou par l'infusion directe de forces divines... Ces arbres sont généralement les plus puissants.  Il y a aussi ceux qui sont imprégnés d'âmes de dragons, ne me demandez pas comment ni pourquoi. Je sais juste qu'il y a des arbres avec des âmes de dragon.~
+@63  = ~Il y a vraiment beaucoup de types d'autres arbres appropriés, peut-être sont-ils associés au pouvoir des enfers ou au pouvoir des Élysées ou à la magie de notre monde ou d'autres plans ou de lieux entre les plans, comme Sigil.~
+@64  = ~C'est fascinant, je vous en prie, dites-m'en plus.~
+@65  = ~Hmm... intéressant, cette information peut m'être utile; dites m'en plus.~
+@66  = ~Pas maintenant, <CHARNAME>. Il faut aller de l'avant, je me sens encore... faible... Je vous en dirai plus une autre fois.~
+
+
+@67  = ~Je me sens plus forte maintenant. Je pense que voyager avec vous a été une bonne décision, et nous sommes sur le point d'atteindre nos objectifs, je n'en doute pas.~
+@68  = ~Je suis heureux que vous pensiez ainsi. Parlez-moi un peu plus de vous, de vos objectifs... et de votre recherche de l'arbre.~~Je suis heureuse que vous pensiez ainsi. Parlez-moi un peu plus de vous, de vos objectifs... et de votre recherche de l'arbre.~
+@69  = ~BAH ! Vous savez quoi ? Gardez vos histoires à dormir debout pour une fleur ou un insecte ou je ne sais quoi d'autre ! J'ai des choses plus importantes à gérer !~
+@70  = ~D'accord ! Si vous êtes sûr que nous avons le temps... Ce n'est pas une simple union, vous savez, je ne peux pas m'approcher d'un arbre et dire "c'est le mien", et ce n'est certainement pas comme si je l'entretenais et c'est tout. L'union est... très difficile à décrire... en termes simples, l'arbre participe à mon essence et je participe à son essence. C'est une symbiose... nous partageons des traits... les bons comme les mauvais.~
+@71  = ~Par exemple, lorsque je m’unis, mon arc, qui fait maintenant partie de moi, devient plus fort. C'est une explication très simpliste, mais vous avez compris l'essentiel, n'est-ce pas ? Il y a des millions de façons dont ma nature changera l'arbre, et vice versa !~
+@72  = ~L'union n'est pas sans conséquence, bien sûr... Une dryade ne peut pas quitter son arbre trop longtemps, ni trop s'en éloigner... sinon elle... mourra. Toutes les dryades ont besoin d'être proches de leur arbre. Les dryades non unies doivent être proches de l'arbre de leur mère. Il n'y a qu'une seule façon de voyager pour une dryade... c'est de lancer le sort "Fruit du voyage lointain" sur le fruit de son arbre... C'est ainsi que je voyage.~
+@73  = ~Les glands que vous avez trouvé dans le donjon d'Irenicus en sont un excellent exemple... si ces dryades s’étaient éloignées de leurs arbres... cela les aurait tués... très rapidement.~
+@74  = ~L'arbre nous donne le pouvoir, la force et la longévité. En retour, nous l'entretenons, nous le nourrissons ainsi que sa progéniture. Nous le protégeons de tout mal.~
+@75  = ~C'est notre but dans la vie... notre objectif...~
+@76  = ~C'est une façon trop simple de décrire ce que c'est... Je suis désolée, les mots ne suffisent pas... il faut en faire l'expérience...~
+@77  = ~...*ronfle*... *ronfle*... oh, désolé, qu'est-ce que... ? Oui, oui, très intéressant, continuons !~~...*ronfle*... *ronfle*... oh, désolée, qu'est-ce que... ? Oui, oui, très intéressant, continuons !~
+@78  = ~Taisez-vous... Taisez-vous ! TAISEZ-VOUS ! Je ne veux plus rien entendre concernant les arbres; si vous en parlez encore une fois, vous vous unirez à votre arbre dans l'au-delà !~
+@79  = ~Je vous souhaite de trouver ce que vous cherchez. Comment le saurez-vous ?~
+@80  = ~Vous êtes égoïste... dégoûtant... RUDE... ENFANT DE BHAAL... GRRRR !~~Vous êtes égoïste... dégoûtante... RUDE... ENFANT DE BHAAL... GRRRR !~
+@81  = ~Ne vous inquiétez pas ! Je n'en parlerai plus ! Je vois bien que ce qui important pour moi ne l'est que pour moi !~
+@82  = ~Je... Je comprends. Continuons.~
+@83  = ~La relation entre l'arbre et la dryade a également une signification plus profonde : la dryade prend soin de l'arbre, ce qui rend l'arbre sain, fort et heureux, ce qui rend également la dryade plus forte. Cependant, la façon dont une dryade prend soin de son arbre est son propre secret. Vous avez sûrement déjà vu des dryades qui sont extraordinairement fortes et qui écrasent leurs ennemis en quelques sorts ?~
+@84  = ~En effet, les forces surnaturelles de la nature de l'arbre augmentent considérablement notre capacité de combat, de sorte que nous protégeons l'arbre du mieux que nous pouvons. Cependant, en acquérant la capacité d'attaquer de cette manière, notre fragilité augmente, ce qui réduit notre défense. L'arbre perd alors sa capacité à se défendre et devient vulnérable à de nombreuses attaques.~
+@85  = ~Cependant, les effets de la réunification peuvent varier. Parfois la dryade est immunisée contre diverses armes et attaques. Quand je trouverai mon arbre, je saurai ce que je dois faire. Merci d'avoir écouté cette histoire, je ne voulais pas vous surprendre plus tard si je le trouvais soudainement.~
+
+@86  = ~Qu'est-ce que ce... MONSTRE fait dans notre groupe ? ! Savez-vous CE QU'ELLE EST ? !~
+@87  = ~C'est un monstre qui sert le mal et assassine des innocents. Elle... a vendu son humanité et a plongé dans le monde des ténèbres de son plein gré.~
+@88  = ~Si vous pensez que je vais laisser cette bête en ma compagnie, vous vous trompez. Les créatures comme elle continueront à mener cette vile existence jusqu'à ce que quelqu'un leur inflige la mort ultime ! Valen, prépare toi À MOURIR !~
+
+
+@89  = ~Non, je ne peux pas le croire ! J'ai bien essayé de vous amener à la lumière, mais vous persistez à vous comporter comme un brigand assoiffé de sang !~
+@90  = ~Vous êtes un fléau pour la terre, <CHARNAME>. Votre âme a plongé dans les ténèbres. Je ne vous permettrai pas d'y entraîner la mienne !~
+@91  = ~Je m'adresse aussi aux autres, quittez <CHARNAME>... ce groupe vous mènera sûrement tous sur le chemin des Neuf Enfers.~
+@92  = ~Je n'ai jamais rencontré quelqu'un d'aussi pervers et foncièrement mauvais que vous ! C'est fini ! Nous ne nous croiserons plus jamais, sauf en tant qu'ennemis ! NON ! Je n'écouterai aucune explication !~
+@93  = ~(Alors qu'elle s'éloigne, Larsha crache par terre avec dégoût.)~
+
+
+@102 = ~Larsha, la dryade, qui a prouvé plus d'une fois qu'elle était un membre précieux de votre groupe.~
+@103 = ~Larsha... Ce n'est pas votre combat, vous avez votre propre but à atteindre... Vous ne devriez pas aller plus loin.~
+@104 = ~Larsha, j'ai enfin atteint mon but ultime. Êtes-vous avec moi ? Allez-vous vous battre encore une fois à mes côtés ?~
+@105 = ~Vous n'êtes pas obligée de venir avec moi, Larsha; ce n'est pas votre combat.~
+@106 = ~Je ne vous abandonnerai pas au moment où vous avez le plus besoin de moi, <CHARNAME>.~
+@107 = ~Vous souvenez-vous de ce que je vous ai dit lorsque je vous ai rencontré pour la première fois ?~
+@108 = ~Je vous ai dit que je vous aiderais à tuer le mage, et d'ailleurs... Je... j'ai trouvé mon arbre.~
+@109 = ~J'avais de grands espoirs que cela se produise et je suis sûre que c'est ici, à Suldanesselar, que je trouverai ce que je cherche depuis si longtemps.~
+@110 = ~Je sens que quelque chose m'appelle de la chambre voisine, un sentiment de souffrance et un besoin d'aide. L'arbre va mal, et je me dois d'intervenir.~
+
+@111 = ~<CHARNAME>, aimeriez-vous que je vous parle de nous, les Dryades, et de ma vie de rôdeuse ?~
+@112 = ~Bien sûr... Allez-vous me parler de votre passé ? J'aimerais en savoir plus sur les dryades.~
+@113 = ~Nous devons continuer à avancer, Larsha, quoi que ce soit, ça devra attendre!~
+@114 = ~Bien sûr. Je voulais vous demander si vous pouviez m'en dire plus sur les sirènes ?~
+@115 = ~Bien sûr, j'aimerais en savoir plus sur la nature en général et sur votre espèce en particulier. J'ai toujours entendu dire que les dryades ne s'entendaient pas avec les nains... est-ce vrai ?~
+@116 = ~D'accord, arrêtons-nous un instant. Ça a l'air d'être un bon endroit pour se reposer. Vous m'avez parlé des nains la dernière fois... pouvons-nous continuer ?~
+@117 = ~Y-... vous êtes importante pour moi, Larsha, et j'aimerais mieux vous connaître.~
+@118 = ~Vraiment ? Bien sûr, je peux vous en dire plus ! Eh bien... voyons... les dryades, les néréides, les nymphes et même les sirènes protègent la nature, par instinct. Elles deviennent les gardiennes des forêts, des prairies, des sources et des ruisseaux parce que c'est dans leur nature profonde. Vous comprenez ? C'est sans doute la raison pour laquelle j'ai tendance à vous ennuyer avec de longues discussions sur la nature !~
+@119 = ~La tâche n'a pas toujours été aussi difficile... La plupart des races ne nous connaissaient pas... humains, elfes, nains... ils étaient peu nombreux et il leur était difficile de voyager...~
+@120 = ~Maintenant, le monde a été "cartographié"... il y a des routes partout, et du commerce... et de nouvelles villes qui empiètent sur les forêts... de nouvelles constructions... des coupes de bois... aucune n'est pire que les nains...~
+@121 = ~Alors... les dryades ne s'entendent pas bien avec les nains... ~
+@122 = ~Les nains sont des gens intelligents... des bâtisseurs... des gens du peuple. Si vous vous mêlez de leurs affaires, ils vous feront du mal. Alors, que faire si ils coupent quelques arbres ?~
+@123 = ~Il n'en a pas toujours été ainsi... Les dryades et les nains se laissaient tranquilles... les nains taillaient leurs salles dans les montagnes, ils n'avaient que faire des forêts... mais ils ont été chassés de leurs anciennes salles... N'ayant plus de pierre à tailler, ils se sont tournés vers le bois. Il y a eu... un nombre incalculable de morts... tous par la hache naine...~
+@124 = ~... Je... Je peux comprendre pourquoi ils l'ont fait... ils avaient besoin de sécurité... et ils se sentaient nus sans la couverture de leurs forteresses de pierre et ils ont dû s'en construire de nouvelles, et tout ce qu'ils pouvaient utiliser, c'était le bois... Mais ils ont massacré des forêts entières... pourquoi n'ont-ils pas appris à vivre AVEC la nature... comme les elfes...~
+@125 = ~Il y a eu des batailles... beaucoup ont été tués au cours des âges... et les forêts du monde ont reculé... des arbres qui étaient... anciens... vivant depuis l'aube de la vie de ce monde, ont péri... Pour cela, mes semblables ne peuvent pardonner ou oublier les responsables... aucun ne l'est plus que les nains... encore moins que les orcs...~
+@126 = ~La nature a tellement perdu au profit de la civilisation...~
+@127 = ~Oh, je suis désolée... je suis en train de vous fatiguer avec mes jérémiades, parlons d'autre chose. Voulez-vous savoir ce que mangent les dryades ?~
+@128 = ~Ça ne me dérange pas, mais si vous voulez parler d'autre chose, je n'y verrai pas d'inconvénient.~
+@129 = ~Humph, vous pouvez parler un peu plus si vous le souhaitez.~
+130 = ~Si vous voulez parler, faites-le avec quelqu'un d'autre, je suis occupé!~
+@131 = ~Je suis un rôdeur, je le sais déjà... passons à autre chose !~~Je suis une rôdeuse, je le sais déjà... passons à autre chose !~
+@132 = ~Vous êtes une créature puissante, <CHARNAME>, la vie de beaucoup de choses est modelée par vos actions... Comment pouvez-vous comprendre les conséquences de ce que vous dites et faites si vous n'êtes pas sensible aux sentiments des autres ? tant pis... passons à autre chose.~
+@133 = ~On croit souvent à tort que les dryades se nourrissent du soleil, comme les arbres, et qu'elles ne mangent pas de viande. Mais ce n'est pas vrai. Je suis une rôdeuse, pourquoi ?!~
+@134 = ~Bien sûr, nous ne chassons pas seulement pour manger... nous chassons tout ce qui tue sans raison, nous protégeons la nature de tout dommage excessif. Et nous ne faisons pas de mal aux créatures ou aux gens qui chassent pour manger, c'est une autre fausse idée !~
+@135 = ~Je vous ai parlé des raids d'orques près de West Harbor, n'est-ce pas ? Dans Padhiver ? Ils provoquaient des massacres insensés... il fallait les arrêter. Et j'étais là pour aider à les arrêter.~
+@136 = ~Lorsque je suis arrivé dans les collines de lancevent, j'ai été attaqué par une autre bande de tueurs insensés, les loups-garous... ils se moquaient d'un groupe de grouilleux lorsque je suis arrivée... ils se précipitaient sur eux comme des fous, les mordant légèrement pour qu'ils saignent mais ne meurent pas lorsqu'ils passaient devant eux... plaisantant pendant qu'ils le faisaient...~
+@137 = ~Les grouilleux se sont défendus du mieux qu'ils ont pu... Ils se sont blottis les uns contre les autres... mais... mais ils ont été déchirés... petit à petit... morceau par morceau... et il y avait des enfants.~
+@138 = ~J'ai vu ça de loin... J'ai couru aussi vite que j'ai pu... pour les rejoindre à temps... mais le temps que j'arrive... c'était horrible...~
+@139 = ~J'étais tellement en colère... J'ai traqué la meute et je l'ai attaquée, sans réfléchir aux conséquences... sans penser que j'étais seule et qu'ils étaient nombreux...~
+@140 = ~J'ai été sauvé par la Reine... J'ai eu de la chance...~
+@141 = ~Oui, tu as eu beaucoup de chance.~
+@142 = ~Mettons-nous en route...~
+@143 = ~Bien sûr... Je... bien sûr.~
+
+@144 = ~Oh, je vois que ce nain écervelé, Korgan, a été accepté dans notre groupe.~
+@145 = ~Ce barbare agressif est certainement quelqu'un qui a bien plus de valeur à vos yeux qu'un dryade.~
+@146 = ~Je n'ai pas l'intention de voyager avec une créature qui n'aurait pas peur d'assassiner un dryade.~
+@147 = ~J'attendrai ici jusqu'à ce que vous vous débarrassiez de ce bâtard à la peau dure.~
+@144 = ~Un nain puant, coupeur d'arbres, revêche et antipathique à la fois...~
+@145 = ~<CHARNAME>, êtes-vous sûr de vouloir emmener cette immonde créature avec vous ? ~
+@146 = ~Je ne vais pas voyager en groupe avec *lui*, je le refuse !~
+@147 = ~Je vais attendre ici, jusqu'à ce que vous en ayez fini avec lui. À plus tard.~
+
+
+@148 = ~Vous savez, depuis quelque temps, vous êtes la seule personne à qui j'ai pu me confier ainsi et en qui j'ai placé une telle confiance. Et vous, que pensez-vous de moi ?~
+@149 = ~Je n'ai jamais rencontré quelqu'un comme vous et j'aimerais que vous soyez toujours à mes côtés.~
+@150 = ~Tant que vous m'êtes utile, je suis votre ami.~
+@151 = ~Épargne-moi vos bavardages ineptes ! Vous n'êtes là que pour m'aider à revendiquer le pouvoir de mon père !~
+@152 = ~Je me fiche de ce que vous pensez... Je ne vous ai jamais vraiment aimé !~
+@153 = ~Et si vous me parliez d'autre chose... de quelque chose d'intéressant... ?~
+@154 = ~Je ne demande pas mieux, qu'à être une bonne amie et une allié fidèle...~
+@155 = ~Et... et plus encore si vous le souhaitez.~
+@156 = ~Je le souhaite...~
+
+@157 = ~Je... Je ne m’attendais pas à ce que vous disiez ça... Que- je- uhhh...? Pouvons-nous parler d’autre chose pour le moment? Je voudrais parler d’autre chose!~
+@158 = ~Bien sûr, je ne voulais pas vous mettre mal à l’aise... s’il vous plaît, allez-y.~
+@159 = ~Laissez-moi vous parler... de l'enchanteresse Mah-Noor... l’ancêtre des dryades. C’est une longue histoire mais vous allez aimer! Au fait, Mah-Noor signifie Lumière de la lune à Alhezdo.~
+@160 = ~Il y a plusieurs millénaires... pendant la Guerre de l'Aube, il y avait un solaire, Magnariel, qui servait le dieu suprême, Ao. C'était une créature courageuse et puissante, un champion des forces des dieux contre les primordiaux. Magnariel mena de nombreuses batailles à travers la mer Astrale et fut sans pitié pour les ennemis de ses maîtres. Infatigable, inébranlable... la quintessence même du devoir.~
+@161 = ~Mais le destin agit de façon mystérieuse... Magnariel a mené un assaut contre un primordial de la terre que nous ne connaissons que sous le nom de "Notre Mère"... et il en est tombé amoureux... C'était interdit... bien sûr... et ils eurent quatre filles...~
+@162 = ~Ils furent découverts... les dieux étaient furieux, une telle union était considérée comme une trahison par les deux parties... Magnariel et sa bien-aimée tentèrent de se cacher pendant de nombreuses années...~
+@163 = ~Mais les dieux les rattrapèrent. Magnariel fut amené devant Ao, qui lui donna le choix. Sacrifier sa bien-aimée et leur progéniture de son plein gré et retourner à son devoir, ou les regarder mourir de la main d'Ao.~
+@164 = ~Magnariel supplia son seigneur de le racheter, mais sa demande fut rejetée. Il supplia Ao de lui pardonner, mais fut repoussé. Finalement, il rappela à son seigneur ses longs états de service et lui proposa un marché en guise de récompense... Il mourrait à la place de sa progéniture. Et sa bien-aimée serait libérée.~
+@165 = ~Ao accepta... Il tua Magnariel à ce moment-là... Ce fut... l'oubli... comme s'il n'avait jamais existé.~
+@166 = ~Ao plaça les quatre filles sur Toril et les chargea de protéger sa beauté naturelle. Elles devinrent les ancêtres de toutes les dryades. Mah-Noor était l'aînée des quatre, et elle devint une grande et puissante magicienne... De notre mère, on ne sait rien... Elle a juste... disparu...~
+@167 = ~C'est une histoire très instructive, Larsha... merci de l'avoir partagée avec moi. Pouvons-nous passer à autre chose ?~
+@168 = ~Vous savez, j'ai pensé à essayer de vous dire d'arrêter plusieurs fois au cours de cette longue et inutile histoire. S'il vous plaît, arrêtez !~
+@169 = ~je... Je voudrais vous parler d'une dernière chose, <CHARNAME>. Je vous offre un cadeau... un cadeau de... bonté... d'amour.~
+@170 = ~S'il vous plaît, ne me trouvez pas trop directe... I... Je souhaite vous donner mon amour... Mais j'ai besoin que vous réfléchissiez à ceci. Je ne peux pas vous donner mon coeur si vous suivez un chemin sombre... maintenant ou dans le futur.~
+@171 = ~Je n'exige rien d'autre de vous en retour... Juste cet engagement~
+@172 = ~S'il vous plaît, pensez-y.~
+@173 = ~Je vous aime Larsha et je suis prêt à faire tout ce que vous me demanderez.~
+@174 = ~Je comprends ce que vous voulez dire. J'ai une bonne nature, Larsha... Je... veux changer... pour vous.~
+@175 = ~Je dois y réfléchir... à mes sentiments pour vous... J'ai besoin de temps.~
+@176 = ~Vous êtes très importante pour moi, Larsha... mais j'en ai une autre dans mon coeur.~
+@177 = ~Je vois... alors qu'est-ce que je suis ? Un outil pour tuer des choses ?~
+@178 = ~Le mal est si profondément enfoui dans votre âme qu'il est insensé d'essayer de le changer.~
+@179 = ~La seule raison pour laquelle je suis dans votre groupe est de détruire le mal que nous poursuivons. Après coup, cela ne me dérangerait pas non plus de nettoyer ce monde de la souillure des enfants de Bhaal...~
+@180 = ~Je sais que vous avez besoin de paix et de solitude pour y réfléchir... Je respecterai ce que vous direz.~
+@181 = ~Pour l'instant, revenons à ce que nous faisions...~
+@182 = ~Nous sommes ensemble dans ce groupe depuis longtemps maintenant, <CHARNAME>...~
+@183 = ~Je ne veux pas vous mettre la pression mais... J'attends toujours votre réponse... Vous souvenez-vous de ce dont nous avons discuté ? I... Je maintiens mon offre...~
+@184 = ~<CHARNAME> d-... est-ce que vous m'aimez ? Je veux dire que vous m'aimez vraiment ? Pas en tant qu'ami ou quoi que ce soit d'autre... vous voyez ce que je veux dire...~
+@185 = ~Larsha, je...~
+@186 = ~Je suis désolé, Larsha... vous êtes très importante pour moi, et je vous aime, d'une certaine façon... mais pas de la façon dont vous le souhaitez...~
+@187 = ~Je comprends, <CHARNAME>... Sache qu'il y aura toujours une place pour vous dans mon coeur...~
+@188 = ~I... Je suis heureuse que vous ayez été honnête avec moi... même si je sais que cela a dû être... difficile. S'il vous plaît, j'ai... J'ai besoin d'être seule.~
+@189 = ~S'il vous plaît... J'espère que vous réalisez que si vous acceptez, nous nous rejoindrons à bien des égards... mon essence fera partie de la vôtre...~
+190 = ~Si vous me quittez... Je... ce sera une torture pour moi... Je ne parle pas seulement de douleur émotionnelle... mais d'agonie physique, tangible pour moi...~
+@191 = ~Ma vie... mon destin est entre vos mains <CHARNAME>... soyez doux...~
+@192 = ~Qu'en dites-vous ?~
+@193 = ~Larsha, il ne peut y avoir personne d'autre que vous dans mon coeur. Je vous aime de tout mon coeur et de toute mon âme !~
+@194 = ~Je suis désolé, mais j'aime Aerie et rien ne peut changer cela.~
+@195 = ~Je suis désolé, mais j'aime Viconia et rien ne peut changer cela.~
+@196 = ~Je suis désolé, mais j'aime Jaheira et rien ne peut changer cela.~
+@197 = ~Si je dois choisir entre vous et Aerie, c'est vous que je choisirai.~
+@198 = ~Si je dois choisir entre vous et Viconia, c'est vous que je choisis.~
+@199 = ~Si je dois choisir entre vous et Jaheira, c'est vous que je choisis.~
+@200 = ~Je ne peux pas tolérer cela. Vous et moi ne pouvons pas nous entendre!~
+@201 = ~Th- merci, <CHARNAME> ! Je suis tellement... soulagée... et heureuse ! J'avais tellement peur !~
+@202 = ~Mon amour... acceptez ceci comme un symbole de mon amour... L'emporterez-vous toujours avec vous, comme un signe de mon amour pour vous ?~
+@203 = ~Je le ferai, Larsha, j'honorerai votre cadeau jusqu'à la fin de mes jours.~
+@204 = ~Je le ferai, Larsha, et je promets de me corriger, de suivre les règles du droit et de la bonté... et d'honorer votre cadeau.~
+@205 = ~Je vous serai toujours redevable de vos conseils toujours avisés.~
+@206 = ~J'en appelle à toi, Corellon ! J'en appelle à toi, Rillifane ! Veillez sur nous et accordez vos bénédictions à notre union !~
+@207 = ~Que votre coeur soit aussi pur que le cristal, aussi blanc que la neige fraîchement tombée. Portez ce gage, qu'il vous aide à affronter tout ce qui se dresse sur le chemin de la droiture !~
+@208 = ~Je n'arrive pas à y croire. Je vous avais prévenu... JE VOUS AVAIS PRÉVENU !  VOUS M'AVEZ TROMPÉE !~
+@209 = ~Il y a une autre dans votre coeur ! Ne le niez pas ! Je m'en vais !~
+@210 = ~Je... Je voulais vous le dire... depuis longtemps, je vous aime, et je ne veux pas vous abandonner, jamais.~
+@211 = ~Ha ! Vous pensez que je serais assez folle pour vous rejoindre dans vos entreprises ridicules, vous surestimez votre importance à mes yeux.~
+@212 = ~Qu'est-ce que c'est ? ! Vous m'avez trompé...  Est-ce que ça sert à quelque chose de me demander quoi que ce soit ? ! Allez vous faire voir !~

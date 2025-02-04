@@ -1,0 +1,6 @@
+Larsha 0.4
+
+Adaptation pour BG2EE.
+Ajout de la traduction française. Version basique respectueuse de la vo , basée sur le polonais. Version alternative basée sur l'anglais, voir les dossiers "french".
+Multiples corrections sur les objets.
+Ajout du script GW_Items.

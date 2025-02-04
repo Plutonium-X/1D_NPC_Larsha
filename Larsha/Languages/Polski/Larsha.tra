@@ -1,0 +1,265 @@
+
+
+@1= ~Witaj! Cieszê siê, ¿e widzê kogoœ innego ni¿ gobliny i orki.~
+@2= ~Witaj! Kim jesteœ i co tu robisz?~ 
+@3= ~A ja, cieszê siê, ¿e istniej¹ w tym kraju tak¿e inni £owcy. Witaj £uczniczko.~ 
+@4= ~Znowu jakaœ dziwaczna driada, zejdŸ mi z oczu!~ 
+@5= ~Ja równie¿ siê cieszê, dobrze, ¿e ju¿ ³¹cz¹ nas, chocia¿ wspólne umiejêtnoœci ³owieckie. Pozwól, ¿e opowiem Ci coœ o sobie.~ 
+@6= ~Nie, nie mam czasu na dalsz¹ rozmowê z Tob¹.~
+@7= ~Chêtnie Ciê wys³ucham.~ 
+@8= ~Jestem Larsha, driadzia ³uczniczka. Pochodzê ze Smoczego Gaju daleko na pó³nocy. Gdy opuœci³am mój dom trafi³am do jednego z elfickich miast oblê¿onego przez hordê demonów... Uda³o mi siê wraz z reszt¹ elfickiej armii odpêdziæ je i na szczêœcie wszystko dobrze siê skoñczy³o.~ 
+@9= ~Gdy wyruszy³am w dalsz¹ wêdrówkê trafi³am tutaj i znalaz³am schronienie u driadziej królowej na Wzgórzach Wichrowych W³óczni, pewnie siê zastanawiasz, po co Ciê zaczepi³am i po co tu przyby³am.~ 
+@10= ~Otó¿ widzisz, kiedy Driada opuszcza swój dom to tylko, dlatego, aby odnaleŸæ spokój, ja... wyczu³am, ¿e coœ mnie wzywa... ja, jak ka¿da inna driada, szukam mojego upragnionego drzewa tego jednego, jedynego, które zosta³o przeznaczone w³aœnie mnie, aby móc siê nim zaopiekowaæ i zjednoczyæ.~ 
+@11= ~Có¿ myœlê, ¿e mo¿emy pomóc sobie na wzajem, wygl¹dasz na poszukiwacza przygód, a ja chêtnie pomogê Ci przy pomocy moich zdolnoœci i umiejêtnoœci, nie wygl¹dasz na jakiegoœ... frajera, który myœli, ¿e jest niezwykle potê¿ny, bo ma byle mieczyk w rêku, gdy tymczasem mo¿na go zabiæ jednym ciosem.~
+@12= ~Widzê, ¿e nie jesteœ byle driad¹, twoje ³ucznicze zdolnoœci i wrodzone moce pomog¹ mi. Witaj w dru¿ynie.~ 
+@13= ~Tak, tak bardzo wzruszaj¹ce, ale ja w tej chwili Ciê nie potrzebujê.~ 
+@14= ~Rozumiem, kiedy bêdziesz mnie potrzebowaæ znajdziesz mnie tutaj, ja bêdê na ciebie czeka³a.~
+
+
+
+@15= ~Wiedzia³am, ¿e znowu siê tutaj zjawisz.~
+@16= ~Tak, czy mo¿esz powiedzieæ mi coœ o sobie.~ 
+@17= ~Tak, ale nadal Ciê nie potrzebujê.~ 
+@18= ~Szkoda myœlê, ¿e jeszcze kiedyœ siê zobaczymy.~
+
+
+
+@19= ~S¹dzi³am, ¿e dobrze siê nam wspó³pracuje, czy naprawdê mam odejœæ?~
+@20= ~Nie, to pomy³ka, dobrze Ciê mieæ w dru¿ynie.~
+@21= ~Tak, ale poczekaj tutaj na mnie.~
+@22= ~Powracasz, czy¿byœ zmieni³ decyzje?~
+@23= ~Tak, wracaj do dru¿yny!~ 
+@24= ~Och to znowu ty, nie, jeszcze Ciê nie potrzebujê.~
+
+
+
+@25= ~Wiêc ju¿ po wszystkim? Tak nareszcie Drzewo ¯ycia zosta³o w pe³ni wyzwolone. Tylko przez œmieræ Irenicusa mog³o siê uzdrowiæ i do koñca ze mn¹ zjednoczyæ.~ 
+@26= ~Teraz ju¿ wiem, co znaczy mieæ drzewo, ja... ja jestem taka szczêœliwa, tak jako ono jest szczêœliwe, ale... gdzie my w ogóle jesteœmy?~ 
+@27= ~To otch³añ prawda? pomimo pomocy zes³anej przez Seldarine, odnieœliœmy obra¿enia. Hm..., gdy twoja i jego dusza siê unosi³a siê w nieznanym kierunku czu³am, ¿e mog³am zostaæ lub pod¹¿yæ za Tob¹, ja myœlê, ¿e inni twoi towarzysze odczuli to samo.~ 
+@28= ~Nie mog³am Ciê zostawiæ, ja jestem pewna, ¿e dobrze post¹pi³am. Jestem driad¹ Drzewa ¯ycia i bêd¹c tutaj jestem w stanie pomóc Ci bardziej ni¿ zwykle.~ 
+@29= ~Mogê... odprawiæ pewien rytua³, w którym przez chwilê jednoczê siê dusz¹ i cia³em z Drzewem ¯ycia, co daje mi dostêp do jego boskiej mocy. Jeszcze nie wiem, jakie bêd¹ efekty tego czaru, ale myœlê, ¿e mog¹ nam bardzo pomóc w tej ostatecznej walce.~ 
+@30= ~Tak po za tym bardzo siê cieszê, ¿e Ciê widzê <CHARNAME>.~
+
+
+
+
+@31= ~<RACE> oto, kim jesteœ, powiedz, czy wasza rasa wie w ogóle, coœ na temat ¿ycia i mocy driad?~ 
+@32= ~Hm... nigdy wczeœniej o tym nie myœla³em..., a czemu ty nie powiesz czegoœ o sobie. Szczerze powiedziawszy, ma³o wiem o driadach.~~Hm... nigdy wczeœniej o tym nie myœla³am..., a czemu ty nie powiesz czegoœ o sobie. Szczerze powiedziawszy, ma³o wiem o driadach.~
+@33= ~Có¿, nie bêdê Ci narazie opowiadaæ szczegó³owo na temat tego, po co istniejemy, a mo¿e jednak? chodzi mi tutaj o nasze Driadzie drzewa, z pewnoœci¹ ju¿ nie jedno uda³o Ci siê zobaczyæ.~ 
+@34= ~Mo¿e opowiem Ci trochê o naszych mocach, oprócz silnej wiêzi z magi¹ natury, posiadamy równie¿ pewien wrodzony dar... telepatii, uwa¿am, ¿e powinieneœ o tym wiedzieæ.~~Mo¿e opowiem Ci trochê o naszych mocach, oprócz silnej wiêzi z magi¹ natury, posiadamy równie¿ pewien wrodzony dar... telepatii, uwa¿am, ¿e powinnaœ o tym wiedzieæ.~
+@35= ~Nie dziw siê tak, to nic groŸnego, choæ mo¿e byæ... bardzo przydatne.~
+@36= ~Co takiego, potrafisz czytaæ w cudzych myœlach?!~ 
+@37= ~Nie masz siê co przejmowaæ, nie jestem tak silna, by ujrzeæ myœli jakiejœ potê¿nej istoty lub takiej, która jest magicznie chroniona przed penetracj¹ z zewn¹trz.~ 
+@38= ~Po za tym, nie lubiê zbytnio tej metody wyci¹gania informacji, wolê o wiele bardziej negocjacjê i skutki, jakie niesie przekonywanie przy pomocy charyzmy.~ 
+@39= ~Oczywiœcie ta wyj¹tkowa zdolnoœæ mo¿e okazaæ siê bardzo przydatna, jednak¿e, jeœli chodzi o Ciebie nie masz siê na razie, o co martwiæ nie bêdê wnikaæ w twoje myœli. W koñcu jesteœmy w jednej dru¿ynie.~
+
+
+
+
+@40= ~Powiedz mi coœ o swojej przesz³oœci, ju¿ jestem z Tob¹ w dru¿ynie od pewnego czasu, a nie za wiele o Tobie wiem. Czemu to wszystko robisz, jaki widzisz w tym cel?~  
+@41= ~Walczê, bo muszê, w przeciwnym razie moi wrogowie mogliby mnie zabiæ.~ 
+@42= ~Mo¿emy, kiedy indziej o tym pomówiæ, to raczej moja w³asna sprawa.~ 
+@43= ~Myœlisz, ¿e powiem Ci cokolwiek? To moja sprawa i nikt obcy nie bêdzie mnie o to pyta³.~ 
+@44= ~Jestem jednym z dzieci Bhaala, wiêc chyba rozumiesz, ¿e walczê o w³adzê i moc mego ojca, która mi siê nale¿y. To dziêki tej esencji mogê bezlitoœnie walczyæ i zabijaæ mych wrogów.~ 
+@45= ~P³ynie we mnie krew umar³ego Pana Mordu i muszê walczyæ, aby wreszcie móc odzyskaæ spokój.~ 
+@46= ~No có¿, skoro tak to odbierasz, mo¿e, kiedy indziej uda nam siê o tym porozmawiaæ.~
+@47= ~Hm..., a wiêc nie walczysz w imiê z³a, to dobrze, muszê powiedzieæ, ¿e ul¿y³o mi. Chcesz odnaleŸæ sens swojego istnienia?~ 
+@48= ~Na pewno zrobisz to, gdy spe³ni siê proroctwo Alaunda. Jestem pewna, ¿e dojdziesz do samego koñca swej wêdrówki.~
+@49= ~Wiesz nie spodziewa³am siê takiej odpowiedzi, skoro jednak twoj¹ dusze czêœciowo ogarnê³o z³o...~ 
+@50= ~ale jestem pewna, ¿e uda mi siê, choæ trochê pomóc Ci, ujrzeæ jak wspania³e jest postêpowanie w imiê dobra.~
+
+
+
+@51= ~Och, <CHARNAME> czujesz i widzisz to, co ja?~  
+@52= ~Nie, nic nie widzê i nic mnie to nie obchodzi, zajmij siê sob¹ i nie przeszkadzaj mi.~ 
+@53= ~Co siê dzieje, Twój £uk Larsho... chyba siê zmieni³, wiesz mo¿e, czemu?~ 
+@54= ~Tak, myœlê, ¿e to przez to, ¿e pomagaj¹c Ci w walce z wrogami, zwiêksza siê moja moc... przemiana £uku to jest jeden ze skutków.~
+@55= ~Rozumiem, czy w takim razie kontynuujemy nasz¹ podró¿?~ 
+@56= ~Tak, cieszê siê, ¿e Ciê to zainteresowa³o!~
+
+
+
+
+@57= ~Ach, to ju¿ drugi raz jak drzewo daje znaæ, ¿e ju¿ jest ca³kiem blisko. Ja ju¿ nie mogê siê doczekaæ, a¿ siê z nim spotkam i zjednoczê.~ 
+@58= ~No w³aœnie, gdy siê spotkaliœmy, mówi³aœ coœ o jakimœ drzewie, które jest przeznaczone tylko dla Ciebie. Proszê, opowiedz coœ wiêcej na ten temat.~ 
+@59= ~No dobrze, jak Ci wczeœniej mówi³am, my driady podobnie jak elfy jesteœmy obdarzone nieœmiertelnoœci¹, co oczywiœcie nie oznacza, ¿e nie mo¿na nas zabiæ przez zadanie powa¿nych obra¿eñ.~ 
+@60= ~Ka¿da driada urodzi³a siê po to, aby odnaleŸæ jedne jedyne drzewo przeznaczone w³aœnie dla niej, ale jak wiesz nie opiekujemy siê zwyk³ymi drzewami.~ 
+@61= ~S¹ to drzewa wyj¹tkowe, zazwyczaj bardzo stare, ale nieœmiertelne tzn., ¿e czas nie mo¿e pozbawiæ je ¿ycia, takie drzewa maj¹ zazwyczaj jakieœ niezwyk³e moce.~ 
+@62= ~Mo¿e to byæ np: wzrastanie i nabywanie mocy przy dostêpie do wody z jakiegoœ œwiêtego Ÿród³a, mo¿e te¿ mieæ coœ wspólnego z boskimi si³ami, te drzewa s¹ zazwyczaj najpotê¿niejsze. Zdarzaj¹ siê tak¿e takie, które maj¹ w sobie dusze smoków, które za swe szlachetne ¿ycie zosta³y umieszczone w takich drzewach.~ 
+@63= ~Jest naprawdê wiele rodzajów Drzew posiadaj¹cych jeszcze inne w³aœciwoœci, zazwyczaj maj¹ zwi¹zek z nadzwyczajn¹ moc¹ otch³ani, bosk¹ si³¹ niebios lub magi¹ naszego œwiata lub innych sfer takich jak Sigil.~
+@64= ~To bardzo niezwyk³e, proszê opowiedz mi coœ wiêcej.~ 
+@65= ~Hm... to ciekawe, mo¿e okazaæ siê bardzo przydatne w naszej dalszej wêdrówce, powiedz coœ wiêcej na ten temat.~ 
+@66= ~Nie, nie mogê <CHARNAME> mo¿e... mo¿e, kiedy indziej Ci o tym opowiem.~
+
+
+
+
+@67= ~Czujê siê ju¿ taka silna. Ty równie¿ walczysz o wiele lepiej ni¿ wtedy, gdy do Ciebie do³¹czy³am. Myœlê, ¿e podró¿owanie w twoim towarzystwie to by³ niez³y pomys³, bez w¹tpienia jesteœmy blisko spe³nienia naszych wspólnych celów.~  
+@68= ~Cieszê siê, ¿e tak s¹dzisz, czy jesteœ gotowa, aby dokoñczyæ swoj¹ historiê na temat tego niezwyk³ego drzewa, którego tak bardzo szukasz?~ 
+@69= ~Wiesz, co mo¿e sobie darujesz i opowiesz t¹, melanchololijn¹ historiê jakiemuœ kwiatkowi, albo zaj¹cowi. Mi nie zawracaj teraz g³owy.~ 
+@70= ~Tak... myœlê, ¿e tak. Mo¿e powiem Ci teraz, co ma na celu zjednoczenie siê driady z drzewem, jak wiesz driadzie drzewa s¹ nieœmiertelne, ale bardzo stare, staroœæ przeszkadza drzewom w byciu szczêœliwymi, wiêc dlatego wzywaj¹ do siebie driady. Mnie moje drzewo tak¿e wzywa œwiadcz¹ o tym przemiany £uku.~ 
+@71= ~Pewnie zastanawiasz siê, po co driada takiemu drzewu, otó¿ miedzy nami odbywa siê coœ w rodzaju symbiozy, ale nie tak zupe³nie. Jest to coœ o wiele bardziej potê¿nego i g³êbokiego.~ 
+@72= ~Driady s¹ istotami piêknymi i wiecznie m³odymi, przez co po zjednoczeniu... drzewu udziela siê ta m³odoœæ i sprawia, ¿e nawet prastare drzewa znowu s¹ m³ode i silne.~ 
+@73= ~My opiekujemy siê wiecznymi drzewami i dlatego jesteœmy nieœmiertelne, wieczne ¿ycie to jest to, co udziela siê nam od drzewa.~ 
+@74= ~Czyli jak widzisz my dajemy m³odoœæ i piêknoœæ, a same stajemy siê nieœmiertelne.~ 
+@75= ~To jest jednak powierzchowny skutek zjednoczenia, które ma o wiele g³êbszy sens. Spójrzmy na driady, które wiêzi³ Irenicus, nie mog³y odejœæ, bo inaczej umar³yby z têsknoty za swoimi drzewami i odwrotnie.~ 
+@76= ~Drzewo i driada opiekuj¹ siê sob¹ nawzajem, przez co s¹ szczêœliwi przez ca³¹ wiecznoœæ. To jest bardzo niezwyk³e, prawda?.~
+@77= ~Och wybacz, ale chyba dopad³a mnie drzemka, to dosyæ d³uga... i nudna opowieœæ. Mo¿emy ju¿ ruszaæ?~ 
+@78= ~Zamknij siê, ju¿ nie chcê tego s³uchaæ, jeœli jeszcze raz o tym wspomnisz nie do¿yjesz spotkania z tym swoim drzewem!~ 
+@79= ~Tak, masz racjê. Chêtnie pos³ucham dalszej czêœci twojej opowieœci.~
+@80= ~Nie s¹dzi³am, ¿e jesteœ takim wstrêtnym samolubem DZIECIÊ BHALLA.~ 
+@81= ~Nie martw siê, nie bêdê ju¿ zawraca³a Ci g³owy zarówno opowieœci¹ o historii zarówno driadzich drzew jak i tego, które tak bardzo pragnê odnaleŸæ. Ono... ono jest dla mnie zbyt wa¿ne.~  
+@82= ~Rozumiem. Tak, tak ruszajmy w dalsz¹ drogê.~
+@83= ~Zale¿noœæ pomiêdzy drzewem, a driad¹ ma równie¿ g³êbszy sens, driada opiekuje siê drzewem, co sprawia, ¿e ono staje siê zdrowe, mocne i radosne, przez co uszczêœliwia tak¿e driadê. Jednak¿e to jak driada opiekuje siê swoim drzewem, to jej w³asna tajemnica, pewnie widzia³eœ nieraz driady, które s¹ nadzwyczaj silne i krusz¹ wroga kilkoma zaklêciami?~ 
+@84= ~Jest to spowodowane tym, ¿e nadprzyrodzone si³y natury drzewa, niezwykle zwiêkszaj¹ nasze zdolnoœci bitewne, po to abyœmy chroni³y drzewo jak najlepiej umiemy. Jednak¿e zyskuj¹c zdolnoœæ takiego ataku, zwiêksza siê nasza delikatnoœæ, przez co zmniejsza siê nasza obrona. Wtedy to drzewo traci zdolnoœæ samoobrony zyskuj¹ niepodatnoœæ na wiele ataków.~ 
+@85= ~Jednak¿e efekty zjednoczenia s¹ bardzo ró¿ne, nieraz driada stawa³a siê odporna na przeró¿ne bronie i ataki. Kiedy odnajdê moje drzewo oka¿e siê, co mi jest pisane. Có¿ dziêki za wys³uchanie tej opowieœci, nie chcia³am Ciê póŸniej zaskoczyæ gdybym nagle je odnalaz³a.~ 
+
+
+
+
+@86= ~Czy mo¿esz mi wyjaœniæ, dlaczego ten czart znajduje siê w tej dru¿ynie! Czy zdajesz sobie sprawê, kim ona jest?~ 
+@87= ~Jest potworem s³u¿¹cym z³u i morduj¹cym niewinnych ludzi. Ona... ona zaprzeda³a swoje cz³owieczeñstwo i pogr¹¿y³a siê w œwiecie mroku z w³asnej woli.~ 
+@88= ~Jeœli myœlisz, ¿e pozwolê, by ta bestia znajdowa³a siê w moim towarzystwie to siê mylisz. Takie istoty jak ona, bêd¹ prowadziæ t¹ plugaw¹ egzystencjê, dopóki ktoœ nie zada jej ostatecznej œmierci! GIÑ BIESIE!~
+
+
+
+
+@89= ~Nie, ja nie mogê w to uwierzyæ, ja... tak bardzo siê stara³am Ci pomagaæ w imiê dobra, a ty postêpujesz jak zwyk³y rabuœ.~ 
+@90= ~Twoja reputacja sprawia, ¿e nie mogê dalej z Tob¹ podró¿owaæ <CHARNAME>, twoja dusza bêdzie wci¹¿ pogr¹¿a³a siê w mroku, ale nie moja, nie pozwolê, aby twoje czyny wp³ywa³y na moj¹ profesje.~ 
+@91= ~Wystarczy³oby jeszcze jedno zlekcewa¿enie przez Ciebie sprawiedliwoœci i pogr¹¿aniu siê przez Ciebie w strumieniu z³ych czynów, które co chwila niszcz¹ dobre zdanie o tej dru¿ynie, a sta³abym siê upad³¹ istot¹, których tak nienawidzê.~ 
+@92= ~Jeszcze nie spotka³am kogoœ, tak wypaczonego jak ty, to ju¿ koniec, ju¿ nigdy siê nie spotkamy œmierdzielu i nie mam zamiaru s³uchaæ twoich wyjaœnieñ, jeœli nawet takie masz.~ 
+@93= ~(Larsha odchodz¹c patrzy na Ciebie z odraz¹ i pluje Ci w twarz)~  
+
+
+@102= ~Larsha, driada, która nie raz okaza³a siê cennym cz³onkiem w twojej dru¿ynie.~
+@103= ~Larsho... ja... to nie jest twoja walka, nie musisz dla mnie ryzykowaæ swym ¿yciem.~
+@104= ~Larsho, wiesz, ¿e stoimy przed ostatecznym celem naszej podró¿y, czy jesteœ ze mn¹? Twe umiejêtnoœci bardzo mnie siê przydadz¹?.~
+@105= ~Nie musisz iœæ ze mn¹ Larsho, to nie jest twoja walka. Nie ryzykuj dla mnie ¿yciem jeœli nie chcesz.~ 
+
+@106= ~Nie nic nie mów, ³¹czy nas bardzo wiele i nie opuszczê Ciê w takiej chwili <CHARNAME>.~ 
+@107= ~Pamiêtasz, pamiêtasz co mówi³am Ci gdy Ciê spotka³am, ja pamiêtam ka¿de s³owo.~ 
+@108= ~Mówi³am, ¿e mo¿emy pomóc sobie nawzajem, ja pomogê Ci zabiæ maga, a przy okazji... ja... odnajdê swe drzewo.~ 
+@109= ~Mia³am wielk¹ nadziejê, i¿ tak siê stanie jestem pewna, ¿e to tu w Suldanesselar znajduje siê to czego od tak dawna szukam.~ 
+@110= ~Czujê jak z pomieszczenia obok coœ i mnie wzywa jest to uczucie cierpienia i potrzeby pomocy, które i mnie siê udziela.~ 
+
+
+
+
+@111= ~Czy... czy chcesz, abym Ci opowiedzia³a o nas driadach i o moim ¿yciu jako ³owczyni?~
+@112= ~Hm... chcê Ci powiedzieæ ¿e bardzo chêtnie s³ucham twoich opowieœci i chêtnie pos³ucham nastêpnej.~ 
+@113= ~Wiesz, z ca³¹ pewnoœci¹ mamy lepsze tematy do rozmowy ni¿ twoje obecne ¿ycie.~ 
+@114= ~Sam jestem ³owc¹, wiêc znam ³owieckie zwyczaje, ale o ¿yciu driad chêtnie pos³ucham.~ 
+@115= ~Nigdy nie mia³em doczynienia z ³owcami, wiêc mam nadzieje, ¿e udzielisz mi jakiœ informacji na ten temat.~ 
+@116= ~Choæ jestem ³owc¹, chêtnie pos³ucham twojego zdania na ten temat, jako driada posiadasz wiêkszy wp³yw na inne stworzenia, których z pewnoœci¹ nie znam, chêtnie pos³ucham tego co masz do powiedzenia.~ 
+@117= ~Jesteœ od pewnego czasu bardzo wa¿n¹ osob¹ dla mnie. Chcia³bym Ciê lepiej poznaæ.~
+@118= ~My driady, siriny, nereidy i nimfy zosta³yœmy powo³ane do s³u¿enia naturze. Sta³yœmy siê stra¿niczkami lasów, gajów, Ÿróde³ i strumieni.~ 
+@119= ~Naszym celem, by³o uchroniæ przyrodê oraz wszelkie istoty jakie j¹ zamieszkuj¹. Dawno temu nie by³o to trudne zadanie. Wiêkszoœæ ras nie zna³a nas i nie wiedzia³a czego siê mo¿na po nas spodziewaæ.~ 
+@120= ~Od bardzo dawna posiadamy wielu wrogów, s¹ nimi krasnoludy, które mordowa³y nas i wycina³y lasy, ale... nie zawsze tak by³o.~
+@121= ~Bardzo ciekawe, czemu krasnoludy sta³y siê waszymi wrogami?~ 
+@122= ~Ju¿ wystarczy, bardzo lubiê krasnoludy, wiêc skoro zabija³y istoty podobne do Ciebie to na pewno mieli racje.~ 
+
+@123= ~"Driada i krasnolud dawniej walczyli ramie w ramie ze wspólnymi wrogami". Oto jak kiedyœ by³o zapisane w starej smoczej ksiêdze. Jednak pisze tam równie¿ o z³otym amulecie, który...~ 
+@124= ~... zwaœni³ obie strony. Hm... pozwól, ¿e wtr¹cê Ci tutaj trochê o naszej hierarchii. W³adzê w gaju posiadaj¹ królowe, najstarsze ¿yj¹ce driadzie królowe licz¹ ju¿ po kilka milionów lat.~ 
+@125= ~To niewyobra¿alny wiek nieprawda¿? jednak to one s¹ œwiat³em naszego ludu, to one przekazuj¹ nam cenn¹ wiedzê i to one bez w¹tpienia znaj¹ wiele tajemnic miêdzy innymi tê z krasnoludami.~ 
+@126= ~Jednak¿e nie chc¹ one mówiæ na ten temat, a mo¿e ju¿ tego nie pamiêtaj¹, tego nie wiem.~ 
+@127= ~Myœlê, ¿e póŸniej dokoñczê tê historiê w miedzy czasie opowiem Ci o ³owieckim ¿yciu.~
+@128= ~Szkoda, ¿e nie mo¿esz tego dokoñczyæ, ale twe ³owieckie ¿ycie tak¿e mnie interesuje.~ 
+@129= ~Có¿ nie obchodzi mnie to zbytnio, ale mów.~
+@130= ~Jeœli chcesz, to pogadaj o tym z innym kompanem tej dru¿yny.~ 
+@131= ~Ju¿ Ci mówi³em, ¿e jestem ³owc¹, wiêc nie mam ochoty wys³uchiwaæ tej czêœci twej historii.~ 
+@132= ~Có¿ mo¿e faktycznie, nie rozumiesz problemów innych ras. Pewnie gdy siêgniesz po ca³¹ boskoœæ swego ojca o ile do tego dojdzie, nie bêdziesz próbowa³ u¿yæ swej mocy w dobrym celu.~
+@133= ~Aby móc chroniæ naturê musia³am wybraæ odpowiedni¹ profesje. Jako ³owca mam wiêkszy kontakt z magi¹ natury, przez co mogê lepiej spe³niaæ swe zadanie.~ 
+@134= ~Walcz¹c w mieœcie elfów z pod³ymi demonami, postanowi³am zawsze niszczyæ takich jak oni, przez co doprowadzaj¹c do zmniejszenia z³a jakie ze sob¹ nios¹.~ 
+@135= ~Sukkuby i alu-biesy s¹ bardzo sprytne, nieraz w przesz³oœci porywa³y driady i zabija³y.~ 
+@136= ~Wiesz, to wszystko zale¿a³o od mi³oœci jak¹ da¿y³yœmy jakiegoœ cz³owieka lub elfa. Jeœli tak siê dzia³o, sukkub u¿ywa³ plugawej magii i udaj¹c przyjazna istotê...~ 
+@137= ~Podstêpem pyta³y, czy mog¹ nas wzi¹æ pod swoj¹ opiekê w jakiejœ niezwykle wa¿nej sprawie i porywa³y, ale nie mog³y nas skrzywdziæ dopóki nie pozna³yœmy smaku zdrady.~ 
+@138= ~W tym celu powraca³y do drogich nam osób, przybieraj¹c iluzje driady, któr¹ porwa³y i pod pretekstem doprowadzenia do kryjówki i zniszczenia demona, próbowa³y poca³owaæ naiwn¹ osobê.~ 
+@139= ~Wtedy, gdy serce dziecka natury zosta³o z³amane zabija³y nas przebijaj¹c serce sztyletem, którym po poca³unku mordowa³y nasz¹ ukochana osobê.~ 
+@140= ~To bardzo smutny los, nie uwa¿asz?~
+@141= ~Tak, masz racje to bardzo smutna historia.~ 
+@142= ~Cieszê siê, ¿e mnie rozumiesz. Ruszajmy ju¿ w dalsz¹ podró¿.~
+@143= ~Ro... rozumiem, có¿ ruszajmy dalej.~
+
+
+
+
+@144= ~Och, widzê, ¿e do twej dru¿yny zosta³ przyjêty ten bezmózgi krasnolud, Korgan.~ 
+@145= ~Ten agresywny barbarzyñca z pewnoœci¹ jest dla Ciebie kimœ o wiele bardziej wartoœciowym ni¿ driada.~ 
+@146= ~Có¿ nie mam zamiaru podró¿owaæ z istot¹, która nie obawia³aby siê zamordowaæ driady.~ 
+@147= ~Poczekam tu, a¿ pozbêdziesz siê tego gruboskórnego bydlaka.~
+
+
+
+
+@148= ~Wiesz, od pewnego czasu jesteœ jedyn¹ osob¹, której siê tak mog³am zwierzyæ i któr¹ obdarzy³am takim zaufaniem. A ty, co o mnie s¹dzisz?~
+@149= ~Ja równie¿, nigdy nie spotka³em kogoœ takiego jak ty i nie zniós³bym gdybyœ ode mnie odesz³a.~
+@150= ~Có¿, póki co jesteœ bardzo przydatna w mojej dru¿ynie, a twoje moce niszcz¹ wielu moich wrogów.~ 
+@151= ~Có¿, jeœli chcesz kontynuowaæ swe opowieœci to mo¿esz sobie darowaæ, jesteœ tu tylko po to, aby pomóc mi zdobyæ moc mego ojca.~ 
+@152= ~Wiesz, tak na prawdê mnie nie interesujesz, szczerze powiedziawszy nigdy Ciê nie lubi³em.~ 
+@153= ~Chyba chcesz zakoñczyæ swoj¹ wczeœniejsz¹ opowieœæ, ju¿ nie mog³em siê doczekaæ, a¿ do tego dojdzie.~ 
+@154= ~Na... naprawdê, wiesz ja od dawna czeka³am, a¿ coœ takiego powiesz.~ 
+@155= ~Cieszy mnie tak¿e, ¿e twe s³owa s¹ szczere, poniewa¿ nie widzê w twym sercu kogoœ innego z kim ³¹czy³aby Ciê prawdziwa mi³oœæ.~
+@156= ~ja... chcê Ci powiedzieæ Larsho, ¿e moje serce nale¿y do Ciebie.~ 
+@157= ~Myœlê, ¿e porozmawiamy o tym, gdy bêdziesz naprawdê pewny swych uczuæ. Wiesz, ¿e moim celem jest ukazanie Ci dobra, wiêc zastanów siê czy jesteœ gotów je przyj¹æ.~
+@158= ~Tak... pewnie masz racjê, proszê dokoñcz sw¹ wczeœniejsz¹ opowieœæ.~ 
+@159= ~Tak, pozwól, ¿e dokoñczê sw¹ opowieœæ. Tak jak wczeœniej mówi³am mamy wielu wrogów. Krasnoludy... one... kiedyœ nam pomaga³y, ale potem sta³y siê naszymi zagorza³ymi wrogami.~ 
+@160= ~Ale gdy krasnoludy siê od nas odwróci³y, znalaz³yœmy innego sprzymierzeñca, sta³y siê nimi elfy, potê¿ne oraz tak¿e nieœmiertelne istoty, które jak siê okaza³o rozumia³y nas bardziej ni¿ my driady mog³yœmy siê tego spodziewaæ.~ 
+@161= ~Jednak¿e, aby móc skutecznie chroniæ ca³¹ naturê, postanowi³yœmy wezwaæ ca³¹ przyrodê do obrony. W tym celu zosta³ odprawiony rytua³, przy pomocy ca³ego Seldarine, czyli panteonu elfickich bóstw.~ 
+@162= ~Jak siê okaza³o jesteœmy spokrewnione z elfami i staliœmy siê w rytuale prawdziw¹ rodzin¹, która kocha i chroni naturê.~ 
+@163= ~W wyniku boskiego rytua³u w którym udzia³ bra³ tak¿e nad-ojciec Ao, zyska³yœmy zdolnoœæ jednoczenia siê z drzewami.~ 
+@164= ~Zyskuj¹c w ten sposób nieœmiertelnoœæ, drzewa m³odoœæ, wzajemne szczêœcie oraz olbrzymi¹ moc.~ 
+@165= ~Po tym wszystkim przysporzy³yœmy sobie nowych wrogów, by³y nimi mroczne istoty, wampiry, biesy i cienie.~ 
+@166= ~Wtedy, zbli¿y³yœmy siê do szlachetnej mocy Amaunatora. Jak widzisz nasza rasa ma du¿y kontakt z bóstwami.~
+@167= ~Tak widaæ, ¿e zwyczje elfów i dobro Amaunatora, sta³o siê w ten sposób wasz¹ domen¹.~ 
+@168= ~Wiesz przemyœla³em to i mam zamiar przerwaæ dalsze wys³uchiwanie tych d³ugich i bezsensownych opowieœci.~ 
+@169= ~Tak i jestem z tego bardzo dumna. Jednak¿e chce z Tob¹ pomówiæ o jeszcze jednej rzeczy, gdyby twoja dusza zaczê³a pogr¹¿aæ siê kiedyœ w mroku lub gdy w³aœnie tak jest móg³byœ, ale jeszcze nie teraz... jeœli tylko byœ chcia³, przyj¹æ dar jakim jest zaznanie tak cudownego uczucia jakim jest bycie dobrym.~ 
+@170= ~Ja tak¿e, mogê ofiarowaæ Ci moj¹ mi³oœæ, ale musisz siê zastanowiæ nad sob¹, przyjmuj¹c moj¹ mi³oœæ, bêdziesz mia³ szansê na zmianê swego charakteru na dobry, ale tylko wtedy, gdy bêdziesz chcia³, aby inni wyczuwali od Ciebie wrodzone dobro, o ile ju¿ go nie posiadasz, twoje ¿ycie mo¿e siê bardzo zmieniæ.~ 
+@171= ~Nie chcê... nie chcê, Ciê do niczego zobowi¹zywaæ, ale jestem driad¹ i nie zniosê ewentualnej zdrady.~ 
+@172= ~Przemyœl to sobie.~
+@173= ~Kocham Ciê Larsho i jestem gotów przyj¹æ dar dobra jaki mi mo¿esz daæ.~ 
+@174= ~Wiem, ¿e mam dobry charakter, ale moja reputacja wcale o tym nie mówi. Ja... pragnê to zmieniæ.~ 
+@175= ~Masz, masz racjê muszê siê zastanowiæ nad moim uczuciem do Ciebie.~ 
+@176= ~jesteœ dla mnie kimœ bardzo wa¿nym, ale w moim sercu jest inna kobieta.~ 
+@177= ~Ty interesowny g³upcze, który widzi w innych bezmózgie istoty s³u¿¹ce do zabijania.~ 
+@178= ~Skoro z³o tak g³êboko osiad³o w twej duszy, nie ma sensu tego zmieniaæ.~ 
+@179= ~Jedynym powodem dla którego jestem w twej dru¿ynie, jest zniszczenie z³a jakie spotka³am w czasie naszych przygód. Pragnê, równie¿ oczyœciæ œwiat ze z³ego potomstwa Bhaala.~
+@180= ~Wiem, ¿e na razie potrzebujesz spokoju i samotnoœci, aby to wszystko przemyœleæ, choæ sam mo¿e w to w¹tpisz.~ 
+@181= ~Póki co, zajmijmy siê naszym obecnym zadaniem.~
+
+
+
+
+@182= ~Nadszed³ ju¿ czas, jesteœmy ju¿ dosyæ d³ugo w jednej dru¿ynie. Powaliliœmy wspólnymi si³ami wielu wrogów.~ 
+@183= ~Pamiêtasz co Ci mówi³am w czasie ostatniej rozmowy? ja... wci¹¿ mogê obdarowaæ Ciê darem dobra.~ 
+@184= ~Jednak¿e, och <CHARNAME> powiedz czy ty... mnie kochasz? myœlê, ¿e jestem w stanie powierzyæ Ci moj¹ mi³oœæ i serce.~
+@185= ~Moje uczucie do Ciebie jest...~ 
+@186= ~Nie ma sensu dalej kontynuowaæ tej farsy, myœlê, ¿e powinniœmy ze sob¹ skoñczyæ.~ 
+@187= ~Wiesz, ¿e nawet siê na Ciebie nie gniewam. Wiesz nigdy nie u¿y³am na Tobie telepatii, aby sprawdziæ twe uczucie.~ 
+@188= ~Cieszê siê, ¿e by³eœ ze mn¹ szczery, chocia¿ teraz.~
+@189= ~Nie, nic na razie nie mów. Chcê Ci jeszcze powiedzieæ, ¿e jestem driad¹ i gdy oddam Ci swe serce, na co jestem w pe³ni gotowa, bêdziemy w pewien sposób zwi¹zani.~ 
+@190= ~Gdybyœ mnie zdradzi³ porzuci³ lub oszuka³ bêdê... musia³a Ciê opuœciæ.~ 
+@191= ~Pewnie myœlisz po co mi ukochany, skoro czeka na mnie drzewo, którym bêdê siê opiekowaæ, widzisz my pragniemy mi³oœci tak¿e do innej istoty ludzkiej, przez co stajemy siê szczêœliwsze.~ 
+@192= ~Pamiêtaj o tym. Ja... kocham Ciê <CHARNAME>, a ty... czy coœ do mnie czujesz?~ 
+@193= ~Jak ju¿ Ci mówi³em Larsho, w mym sercu nie ma innej kobiety. Kocham Ciê!~ 
+@194= ~Przykro mi, ale Ja kocham Aerie i nic tego nie zmieni.~ 
+@195= ~Przykro mi, ale Ja kocham Viconiê i nic tego nie zmieni.~ 
+@196= ~Przykro mi, ale Ja kocham Jaheirê i nic tego nie zmieni.~ 
+@197= ~Pragnê Ci wyznaæ, ¿e moje serce nale¿a³o do Aerie, ale ty mi uœwiadomi³aœ, ¿e kocham Ciebie.~ 
+@198= ~Pragnê Ci wyznaæ, ¿e moje serce nale¿a³o do Viconii, ale ty mi uœwiadomi³aœ, ¿e kocham Ciebie.~ 
+@199= ~Pragnê Ci wyznaæ, ¿e moje serce nale¿a³o do Jaheiry, ale ty mi uœwiadomi³aœ, ¿e kocham Ciebie.~ 
+@200= ~Nie, nic z tego. Nie mam zamiaru wi¹zaæ z tak¹ dzikusk¹ jak ty!~ 
+@201= ~Tak siê cieszê. Och <CHARNAME> jesteœ osob¹, której mi³oœæ jest szczera i która pomo¿e Ci ujrzeæ piêkno jaki daje bycie dobrym.~ 
+@202= ~<CHARNAME> proszê przyjmij ten oto pukiel w³osów, jako symbol naszej mi³oœci. Noœ go zawsze ze sob¹ i niech Ci o mnie przypomina.~
+@203= ~Dziêkujê Ci Larsho. Pragnê, pragnê przyj¹æ dar dobra, który pomo¿e mi w s³usznej sprawie u¿ywaæ mych mocy.~ 
+@204= ~Dziêkujê Ci Larsho. Pragnê, pragnê przyj¹æ dar dobra, który pomo¿e mi naprawiæ m¹ reputacjê i sprawi, ¿e bêdê bardziej szanowa³ praworz¹dnoœæ i szlachetne czyny.~ 
+@205= ~choæ me czyny s¹ dobre, dziêkujê Ci za ukazanie mi sensu ¿ycia jako dzieciêcia Bhaala.~ 
+@206= ~Wzywam ciê Amaunatorze i Lathanderze w³adcy dobra. Zmieñcie œcie¿kê postêpowania tego dzieciêcia Bhaala i uka¿ mu radoœæ jak¹ niesie bycie dobrym i prawym.~
+@207= ~Twe serce czyste jak kryszta³, a czyny szlachetne, przyjmij t¹ oto moc, która pomo¿e Ci stawiæ czo³a pod³ym stworom, które jeszcze spotkasz na swej drodze.~
+
+@208= ~Nie nie mogê w to uwierzyæ. Ostrzega³am Ciê, ostrzega³am, a ty mimo to mnie zdradzasz.~ 
+@209= ~W twym sercu jest inna kobieta, nie zniosê tego, odchodzê! i nie próbuj siê t³umaczyæ!~
+@210= ~Ja, od dawna chcia³em Ci powiedzieæ, ¿e bardzo Ciê kocham i nie chcê z Ciebie rezygnowaæ.~
+
+
+@211= ~Ha myœlisz, ¿e jestem na tyle g³upia, aby do ciebie do³¹czyæ, nic z tego.~ 
+@212= ~Œci¹gn¹³eœ mnie tutaj chocia¿ oszuka³eœ, gdy mówi³eœ, ¿e mnie kochasz. Nie ma sensu oszukiwaæ i œci¹gaæ mnie tutaj na si³ê.~

@@ -1,0 +1,113 @@
+BACKUP ~Larsha\Backup~
+AUTHOR ~Marcin <marcin_skc1@wp.pl>~
+
+
+AUTO_TRA ~Larsha/Languages/%s~
+
+LANGUAGE ~Polski ( Marcin Kijo)~
+         ~polski~
+         ~Larsha/Languages/Polski/setup.tra~
+		 
+LANGUAGE ~English~
+         ~english~
+         ~Larsha/Languages/English/setup.tra~
+		
+LANGUAGE ~Francais pour oBG2~
+         ~french~
+         ~Larsha/Languages/French/setup.tra~
+		 
+LANGUAGE ~Francais pour BG2EE~
+         ~frenchEE~
+         ~Larsha/Languages/FrenchEE/setup.tra~
+		 
+		 
+BEGIN ~Larsha~
+INCLUDE ~Larsha\gw_functions.tpa~
+
+ACTION_IF GAME_IS ~BG2 TOB BGT~ THEN BEGIN
+COPY    ~Larsha/Portraits~      ~override~
+
+END
+ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+COPY    ~Larsha/PortraitsEE~      ~override~
+END
+
+
+COPY ~Larsha/Larsha.cre~ ~override/Larsha.cre~
+SAY NAME1 @1
+SAY NAME2 @1
+SAY BIO @2
+
+COPY    ~Larsha/Larsha.bcs~       ~override/Larsha.bcs~
+	REPLACE 88881 @27
+	REPLACE 88882 @28
+	REPLACE 88883 @29
+	REPLACE 88884 @30
+	REPLACE 88885 @31
+	REPLACE 88886 @32
+	REPLACE 88887 @26
+
+
+COPY    ~Larsha/larluk1.itm~   ~override/larluk1.itm~ SAY NAME1 @3 SAY NAME2 @3 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@9" END 
+COPY    ~Larsha/larluk2.itm~   ~override/larluk2.itm~ SAY NAME1 @4 SAY NAME2 @4 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@10" END 
+COPY    ~Larsha/larluk3.itm~   ~override/larluk3.itm~ SAY NAME1 @5 SAY NAME2 @5 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@11" END  
+COPY    ~Larsha/larluk4.itm~   ~override/larluk4.itm~ SAY NAME1 @6 SAY NAME2 @6 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@12" END 
+COPY    ~Larsha/larluk5.itm~   ~override/larluk5.itm~ SAY NAME1 @7 SAY NAME2 @7 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@13" END  
+COPY    ~Larsha/larluk6.itm~   ~override/larluk6.itm~ SAY NAME1 @8 SAY NAME2 @8 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@14" END  
+
+COPY    ~Larsha/dar3.itm~      ~override/dar3.itm~ SAY NAME1 @15 SAY NAME2 @15 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@17" END  
+COPY    ~Larsha/dar5.itm~      ~override/dar5.itm~ SAY NAME1 @16 SAY NAME2 @16 LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@18" END 
+
+COPY    ~Larsha/rudaluk.itm~   ~override/rudaluk.itm~ SAY NAME1 @21 SAY NAME2 @21 SAY DESC @22  
+COPY    ~Larsha/pukiel.itm~    ~override/pukiel.itm~  SAY NAME1 @24 SAY NAME2 @24 SAY DESC @25  
+
+COPY    ~Larsha/apiesn.spl~    ~override/apiesn.spl~   SAY NAME1 @19 SAY NAME2 @19
+COPY    ~Larsha/Moc.spl~       ~override/moc.spl~      SAY NAME1 @20 SAY NAME2 @20
+COPY    ~Larsha/pozycjam.spl~  ~override/pozycjam.spl~ SAY NAME1 @26 SAY NAME2 @26
+
+COPY    ~Larsha/larregen.spl~    ~override/larregen.spl~  
+	SAY NAME1 #10996 // regeneracja
+  	SAY NAME2 #10996 // regeneracja
+COPY    ~Larsha/larimplo.spl~    ~override/larimplo.spl~  
+	SAY NAME1 #63820 // implozja
+  	SAY NAME2 #63820 // implozja
+COPY    ~Larsha/larnatur.spl~    ~override/larnatur.spl~  SAY NAME1 @23 SAY NAME2 @23
+COPY    ~Larsha/larowady.spl~    ~override/larowady.spl~  
+	SAY NAME1 #25750 // pe³zaj¹ca zag³ada
+  	SAY NAME2 #25750 // pe³zaj¹ca zag³ada
+COPY    ~Larsha/larrozkl.spl~    ~override/larrozkl.spl~  
+	SAY NAME1 #38571 // bolesny rozk³ad
+  	SAY NAME2 #38571 // bolesny rozk³ad
+COPY    ~Larsha/laruzdro.spl~    ~override/laruzdro.spl~  
+	SAY NAME1 #1453 // Uzdrowienie
+  	SAY NAME2 #1453 // Uzdrowienie
+COPY    ~Larsha/skrzat.spl~      ~override/skrzat.spl~  
+	SAY NAME1 #44945 // py³ skrzatów
+  	SAY NAME2 #44945 // py³ skrzatów
+
+
+EXTEND_TOP ~ar2806.bcs~ ~Larsha/ar2806.bcs~
+EXTEND_TOP ~ar1200.bcs~ ~Larsha/ar1200.bcs~
+EXTEND_TOP ~ar4500.bcs~ ~Larsha/ar4500.bcs~
+EXTEND_TOP ~HGNYA01.bcs~ ~Larsha/HGNYA01.bcs~
+
+
+COMPILE ~Larsha/dialog/larcespe.d~
+  USING ~Larsha/Languages/%LANGUAGE%/larcespe.tra~
+COMPILE ~Larsha/dialog/larsha.d~
+  USING ~Larsha/Languages/%LANGUAGE%/larsha.tra~ 
+COMPILE ~Larsha/dialog/larinter.d~
+  USING ~Larsha/Languages/%LANGUAGE%/larinter.tra~      
+
+APPEND ~pdialog.2da~
+~LARSHA          LARSHAP               LARSHAJ              LARSHAD~
+UNLESS ~Larsha~
+UNLESS ~25POST~
+
+APPEND ~pdialog.2da~
+~LARSHA          LARSHAP               LARSHAJ              LARSHAD           LARSHAP             LARSHAJ                LARSHA                  LARSHA~
+UNLESS ~Larsha~
+IF ~25POST~
+
+
+//AT_INTERACTIVE_EXIT ~VIEW larsha\ReadMe-Larsha.txt~

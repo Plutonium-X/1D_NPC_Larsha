@@ -1,0 +1,31 @@
+
+//VAELASA//
+@1= ~Och, widzê Larsho, ¿e podró¿ujesz z jakimiœ poszukiwaczami przygód. Mi³o mi to widzieæ.~ 
+@2= ~Tak Vaelaso, to jest <CHARNAME>, pomagam mu w odnalezieniu i zniszczeniu pewnego maga nazywa siê Irenicus, czy widzisz w zaklêtym zwierciadle wody gdzie mo¿emy go znaleŸæ?~~Tak Vaelaso, to jest <CHARNAME>, pomagam jej w odnalezieniu i zniszczeniu pewnego maga nazywa siê Irenicus, czy widzisz w zaklêtym zwierciadle wody gdzie mo¿emy go znaleŸæ?~  
+@3= ~Mag, o którym mówisz jest nadzwyczaj potê¿ny, jego pancerz z czarów sk³ada siê z magii z³a i zepsucia, która szkodzi naturze. Nie, nie mogê go przez to odnaleŸæ. Wybacz, ¿e nie mog³am wam pomóc.~  
+@4= ~S¹dzê, ¿e powinniœmy ruszaæ w dalsz¹ drogê, <CHARNAME> moja królowa pragnie zdobyæ ¿o³êdzie naszych driadzich sióstr, aby uwolniæ je z niewoli u Irenicusa, jeœli coœ wiesz na ten temat to porozmawiaj z ni¹.~
+
+//SAMIA//
+@5= ~Ha, wstrêtna oszustka! Nie oszukasz kogoœ, kto jest mistrzem przekonywania. Twoje niecne sztuczki s¹ ¿a³osne, myœla³aœ, ze nie przejrzê takiej wyœcie³anej k³amstwami pu³apki. <CHARNAME>, ZNISZCZMY J¥!~    
+@6= ~Kim ty niby jesteœ, ¿e wymawiasz takie s³owa, nie masz prawa podwa¿aæ mych s³ów, tym bardziej, ¿e s¹ szczere. <CHARNAME> uwierz mi to ta dzikuska jest twoim wrogiem nie ja.~
+@7= ~Œmiesz podwa¿aæ s³owa dziecka natury! Tak, ja jestem driad¹. Ciekawe czemu masz tak¹ zdziwion¹ i zarazem wystraszon¹ minê. Tak, tak widzê to dobrze i nie tylko to, dobrze wiesz co to dla Ciebie oznacza, chocia¿ <CHARNAME> nie wie.~ 
+@8= ~Powiedz Samio co o nas wiesz o driadach, których ¿aden oszust nie potrafi przechytrzyæ. <CHARNAME>, jeœli tylko zechcê potrafiê ujrzeæ co skrywaj¹ czyjeœ myœli, UMIEM CZYTAÆ W MYŒLACH! i Samia dobrze o tym wie.~ 
+
+///STRA¯NIK//
+@9= ~Hm... Nie lubiê zbytnio nadu¿ywaæ telepatii, wolê raczej wyczuwaæ wszelkie k³amstwa, oszustwa i pu³apki na drodze negocjacji i rozmowy. Tym razem mo¿e siê to okazaæ niezbêdne i pomocne. Ten stra¿nik chyba nie jest skory do rozmowy i pogaduszek.~ 
+@10= ~(Widzisz jak Larsha wtapia swój wzrok w ciemne oczy demona, wywo³uje to u ciebie dziwne uczucie niepewnoœci)~ 
+@11= ~Z tego, co widzê ten grobowiec, o którym mówi³a Samia jest chroniony przez ¿ywio³aka ognia, ostatniego siódmego stra¿nika króla Strohma III. Jest on niewidzialny dla ka¿dego, w którym nie p³ynie krew króla i jego potomków, czyli ka¿dego, kto nie otrzyma czêœci maski od ka¿dego z ifrytów.~ 
+@12= ~Musimy zabiæ ca³¹ szóstkê demonów, odebraæ od nich czêœci maski, która siê sama zrekonstruuje, gdy j¹ w³o¿ymy na miejsce he³mu iluzja siódmego stra¿nika powinna zostaæ rozproszona.~ 
+@13= ~Widzê, ¿e grobowiec zawiera wiele skarbów, które o dziwo mog¹ pomóc nam w uœmierceniu jakiegoœ smoka. Ciekawe czy to ma coœ wspólnego, z Firkraagiem.~ 
+@14= ~Pewnie dziwi Ciê to, ¿e na czas naszej rozmowy demon nas nie zaatakowa³ mnie te¿ to zaskoczy³o s¹dzê, ¿e umys³ tej istoty zosta³ oszo³omiony przez moj¹ ma³¹ penetracjê. Có¿ myœlê, ¿e on powraca w³aœnie do œwiadomoœci, czas na walkê!~    
+
+
+///Irenicus////
+@15= ~TAK CZUJÊ TO! To Drzewo ¯ycia dawa³o mi moc, to ono mnie wzywa³o, to JA JESTEM JEGO DRIAD¥!~ 
+@16= ~Ono... Ono wyczuwa³o, ¿e wygnaniec przybêdzie, ju¿ raz próbowa³ je zniszczyæ. Drzewo nie pozwoli, aby cierpia³y elfy!~ 
+@17= ~Doœæ Irenicusie! Ju¿ nigdy nie tkniesz Drzewa, które pochodzi od Rilifanie. To ja sta³am siê stra¿niczk¹ Drzewa i to ja bêdê go broniæ przed Tob¹ i tobie podobnymi.~    
+@18= ~Tak to ma sens, to rozpaczliwe wo³anie o pomoc by³o skierowane... do Ciebie driado? Ha, to Drzewo ju¿ musi wzywaæ driadê, bo nie mo¿e daæ sobie bez niej rady!~ 
+@19= ~Zniszczê Ciê, zniszczê i tym samym udowodniê, ¿e jestem potê¿niejszy od elfickich bogów, którzy narzucili na mnie kl¹twê.~
+@20= ~MILCZ! NIE WA¯ SIÊ DO MNIE MÓWIÆ... cz³owieku, biesie nie... nie wiem, kim teraz jesteœ, ale na pewno nie elfem.~ 
+@21= ~<CHARNAME> to ju¿ nie jest ju¿ tylko twoja walka, nie pozwolê, aby ten potwór dalej ¿y³, tym bardziej, ¿e mamy po swojej stronie... ca³e Seldarine.~ 
+@22= ~JA DRIADA DRZEWA ¯YCIA, KTÓRA STA£AM SIÊ DZIECKIEM BOGÓW I POWIERNICZK¥ RÓD£A ¯YCIA, WZYWAM WAS, WZYWAM CA£E SELDARINE, ABY PRZEZE MNIE ZEMŒCI£O SIÊ NA TYM WYGNAÑCU DLA, KTÓREGO NIE MA PRZEBACZENIA! GIÑ IRENICUSIE!~
