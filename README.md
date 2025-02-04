@@ -13,3 +13,4 @@ Particularités :
 - Elle est aussi équipée d'une tiare qui lui confère action libre, hâte améliorée et protection contre les armes non magiques et magiques +1, et si vous l'amenez à combattre Irenicus à l'Arbre de vie, sa tiare deviendra encore plus puissante.
 - Elle commence avec les capacités spéciales Dégénérescence et Chanson de l'Hama-dryade (sanctuaire et protection contre toutes les armes 12 secondes pour Larsha, confusion 20 secondes pour les ennemis sur zone (jds contre sort pour annuler)). Elle gagne d'autres capacités spéciales aux niveaux 9, 12, 14, 16, 22, 25 et 29.
 - Elle a +1 au taco et +1/2 APR. (ce qui avec la hâte améliorée de sa tiare lui accorde +1 APR. Elle commence à 4 APR, avec son arc 5 APR, et une fois grande maîtresse 7 APR).
+- Elle  dans son sac à dos des potions et un parchemin de Convocation de vache ! (Niveau 2, zone, 3D10+3 points de dégats sans jds)
