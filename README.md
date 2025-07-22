@@ -3,9 +3,8 @@
 Elle vous attend près du lac aux fées, dans les Collines de Lancevent.
 
 Particularités :
-
+- Caractéristiques : force 16, dextérité 19, endurance 10, intelligence 15, sagesse 18, charisme 25.
 - Elle a très peu de dialogues (romance et Irenicus à l'arbre de vie) et aucun banter.
-- Elle a 25 en charisme. Qui a encore besoin d'utiliser le sort "Charme" ? ^^
 - Vous pouvez la romancer, sa romance est facile (il faut juste passer du temps avec elle et ne pas la brusquer) et très exclusive : ne commencez aucune amourette avec une autre donzelle Bioware sous peine de voir la dryade partir définitivement.
 - Elle refuse de s'associer avec Korgan et Valen.
 - Elle est équipée d'un arc +1 qui génère ses propres flèches avec des effets de pétrification et/ou enchevêtrement et lui offrant divers bonus.
