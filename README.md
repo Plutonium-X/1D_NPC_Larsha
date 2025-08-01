@@ -4,6 +4,7 @@ Elle vous attend près du lac aux fées, dans les Collines de Lancevent.
 
 Particularités :
 - Caractéristiques : FOR 16, DEX 19, CON 10, INT 15, SAGe 18, CHA 25.
+- Elle a 75000 xp.
 - Elle a très peu de dialogues (romance et Irenicus à l'arbre de vie) et aucun banter.
 - Vous pouvez la romancer, sa romance est facile (il faut juste passer du temps avec elle et ne pas la brusquer) et très exclusive : ne commencez aucune amourette avec une autre donzelle Bioware sous peine de voir la dryade partir définitivement.
 - Elle refuse de s'associer avec Korgan et Valen.
