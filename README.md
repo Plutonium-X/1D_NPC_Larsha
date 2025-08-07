@@ -16,4 +16,4 @@ Particularités :
 - Elle a +1 au taco et +1/2 APR. (ce qui avec la hâte améliorée de sa tiare lui accorde +1 APR. Elle commence à 4 APR, avec son arc 5 APR, et une fois grande maîtresse 7 APR).
 - Elle  dans son sac à dos des potions et un parchemin de Convocation de vache ! (Niveau 2, zone, 3D10+3 points de dégats sans jds)
 
-Note : la traduction française est faite à partir du polonais. Il existe une traduction anglaise dans le BWS que j'ai incluse mais elle est baclée (la tiare est un bracelet, par exemple) et raconte une histoire litéralement différente de la version polonaise. Si vous voulez essayer une romance alternative, elle est dans les fichiers tra, marquée "alt".
+Note : la traduction française est faite à partir du polonais. Il existe une traduction anglaise dans le BWS que j'ai incluse mais elle est baclée (la tiare est un bracelet, par exemple) et raconte une histoire litéralement différente de la version polonaise. Si vous voulez essayer une romance alternative, elle est dans les fichiers tra, aussi traduite en français et marquée "alt".
