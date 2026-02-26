@@ -20,6 +20,10 @@ LANGUAGE ~Francais pour BG2EE~
          ~frenchEE~
          ~Larsha/Languages/FrenchEE/setup.tra~
 		 
+LANGUAGE ~Francais pour BG2EE - Histoire alternative~
+         ~frenchEE2~
+         ~Larsha/Languages/FrenchEE2/setup2.tra~
+		 
 		 
 BEGIN ~Larsha~
 INCLUDE ~Larsha\gw_functions.tpa~
