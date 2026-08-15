@@ -12,7 +12,7 @@ Particularités :
 - L'arc est amélioré en +2 / +3 / +4 / +5 (ce qui améliore ses effets, ses bonus et ses dégâts (monstrueux à la fin)) quand Larsha atteint respectivement 1,5M / 2,2M / 2,9M / 3,6M d'xps.
 - L'arc peut encore être upgradé en +6 par Cespenar en utilisant Dernier mot +4 et un composant original ajouté par le mod. (Rien dans le texte ne le précise). L'arc +6 est clairement cheaté.
 - Elle est aussi équipée d'une tiare qui lui confère action libre, hâte améliorée et protection contre les armes non magiques et magiques +1, et si vous l'amenez à combattre Irenicus à l'Arbre de vie, sa tiare deviendra encore plus puissante.
-- Elle commence avec les capacités spéciales Dégénérescence et Chanson de l'Hama-dryade (sanctuaire et protection contre toutes les armes 12 secondes pour Larsha, confusion 20 secondes pour les ennemis sur zone (jds contre sort pour annuler)). Elle gagne d'autres capacités spéciales aux niveaux 9, 12, 14, 16, 22, 25 et 29.
+- Elle commence avec les capacités spéciales Dégénérescence et Chanson de l'Hama-dryade (sanctuaire et protection contre les armes jusqu'à +4 pendant 12 secondes pour Larsha, confusion pendant 20 secondes pour les ennemis sur zone (jds contre sort pour annuler)). Elle gagne d'autres capacités spéciales aux niveaux 9, 12, 14, 16, 22, 25 et 29.
 - Elle a +1 au taco et +1/2 APR. (ce qui avec la hâte améliorée de sa tiare lui accorde +1 APR. Elle commence à 4 APR, avec son arc 5 APR, et une fois grande maîtresse 7 APR).
 - Elle  dans son sac à dos des potions et un parchemin de Convocation de vache ! (Niveau 2, zone = toute la map, 3D10+3 points de dégats sans jds)
 
