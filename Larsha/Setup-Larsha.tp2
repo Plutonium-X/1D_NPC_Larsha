@@ -23,8 +23,11 @@ LANGUAGE ~Francais pour BG2EE~
 LANGUAGE ~Francais pour BG2EE - Histoire alternative~
          ~frenchEE2~
          ~Larsha/Languages/FrenchEE2/setup2.tra~
-		 
-		 
+
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~Larsha/Languages/Schinese/setup.tra~
+
 BEGIN ~Larsha~
 INCLUDE ~Larsha\gw_functions.tpa~
 
